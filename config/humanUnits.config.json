@@ -1,0 +1,2389 @@
+[
+    {
+        "ArchMage": [
+            {
+                "text": "Ваша возьня мешает мне сосредоточиться!",
+                "sticker": "CAACAgIAAxkBAAIWhmIvbqncQ_v0LAJG0GmPrlC_B_6NAALbFQACzkFASaeHsraVxiOEIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMmmIt-W529oTbUZEOHwpqWHPLHm26AAIgGgACblRwSecS8BdNDtUFIwQ"
+                ]
+            },
+            {
+                "text": "Если вы не оставите меня в покое --- Я превращу вас в безмозглую овцу!",
+                "sticker": "CAACAgIAAxkBAAIWiGIvbxPF4HpTseNzNjDFnDv1wrm1AAIpGgACb9VISVIXSlDV0L4wIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMqmIt-YvyVLVt5f__2gQgab7XDhFyAAInGgACblRwSVBnrt08v6uRIwQ"
+                ]
+            },
+            {
+                "text": "Я не собираюсь тратить ману на всякую чепуху!",
+                "sticker": "CAACAgIAAxkBAAIWlGIvb1uUOXYQLPk3_lyUi3PCIoG-AAK_FQAC9kpISWjBWrmGSTqTIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMrGIt-Y6b7nzexP8VyqlmH-mAZbu7AAIoGgACblRwSUEaBhvru8bPIwQ"
+                ]
+            },
+            {
+                "text": "Я к вашим услугам!",
+                "sticker": "CAACAgIAAxkBAAIWlmIvb2YFjTC6o5cHimeBggW7U0vLAALDFAACCI9ISYoJA097G23KIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMrmIt-ZDutzbsSiL9qLLf2Vw0uO39AAIpGgACblRwSbSZRaRy70yfIwQ"
+                ]
+            },
+            {
+                "text": "За Славой!",
+                "sticker": "CAACAgIAAxkBAAIWmGIvb3H9K7rg1egGJJEkUqXbjux5AAKvFwACNpdJSSZtaffkkiuGIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMsGIt-ZK0iPDLcbJVhdHusLa_KGbOAAIqGgACblRwSS_wJpZvkRfDIwQ"
+                ]
+            },
+            {
+                "text": "Нужна моя помощь?",
+                "sticker": "CAACAgIAAxkBAAIWmmIvb3rLIvUGAcEwhc7QZowqNW8hAAKUGQACfBdJSfz_2HogIiKqIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMsmIt-ZQEyDGBpwm3rEH2rO2oF32fAAIrGgACblRwSVB2a87vaGjgIwQ"
+                ]
+            },
+            {
+                "text": "Что вам угодно?",
+                "sticker": "CAACAgIAAxkBAAIWnGIvb4WUZUmvfnqO3iAhSKL9qAYTAAL_FgACZJJISeRTAAHdOvh_pSME",
+                "voice": [
+                    "AwACAgIAAxkBAAIMtGIt-Zc1y9CGDS2nInZcFHN70jYWAAIsGgACblRwSUkzXMfjdQpqIwQ"
+                ]
+            },
+            {
+                "text": "Ну же, приказывайте!",
+                "sticker": "CAACAgIAAxkBAAIWnmIvb4aDSSdgce4F8VIcPrUnOtN1AAJJGQAC5iFISSIfxafLSZ-hIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMtmIt-ZusWaj0rvgMDSdziOe2Ky2mAAItGgACblRwSWK5G-r0EwqQIwQ"
+                ]
+            },
+            {
+                "text": "Да?",
+                "sticker": "CAACAgIAAxkBAAIWoGIvb4it0--djHkZ3nx1tMGBa0-sAAIFFgACFSZISWxrsg_byzDSIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMuGIt-Z1rCdJn6bBuaycaiTx7_F28AAIvGgACblRwSXEm4Y83hhO_IwQ"
+                ]
+            },
+            {
+                "text": "Будет исполнено",
+                "sticker": "CAACAgIAAxkBAAIWoWIvb4hocUYjNYUyrmlI3W7tL83pAAJ9FwACOMdJSTiYfO7ZUR2FIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMnmIt-XsCgQdazQviPSlwnir6xVIZAAIhGgACblRwSYn2zTQWQbkEIwQ"
+                ]
+            },
+            {
+                "text": "Превосходно",
+                "sticker": "CAACAgIAAxkBAAIWimIvbyb7AYLjfW6I_b3lm7OQCl2ZAALNEwAClFZASW7MUmf6pi8qIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMoGIt-YCbOhyff6VYAgK7X9iptyxjAAIiGgACblRwSUWdgS88UO8YIwQ"
+                ]
+            },
+            {
+                "text": "Да будет так!",
+                "sticker": "CAACAgIAAxkBAAIWjGIvbzRGV6hFg3XqaUb6jTKp5-_mAAJ6FgAC6StISUG3A55Al1OnIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMomIt-YM7HNOWmdGPj_BZUrkAAS_8qQACIxoAAm5UcEm9RtCJ1Q9F6SME"
+                ]
+            },
+            {
+                "text": "Согласен",
+                "sticker": "CAACAgIAAxkBAAIWjmIvbz1--cxBZgABiqjIkGusUx4CmAACoxYAAupRSUmAe5C5gPTk2yME",
+                "voice": [
+                    "AwACAgIAAxkBAAIMpGIt-YWVCpYBJmvjZIXtq1EEMM_wAAIkGgACblRwSbY1skJi8wixIwQ"
+                ]
+            },
+            {
+                "text": "В бой!",
+                "sticker": "CAACAgIAAxkBAAIWkGIvb0c2V0_wUU_KBNKRXjmKpwdpAAIDGAACwJRJSYa1YNY3jSNeIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMpmIt-YdM5JpEX6N-mDDjA7JypIwzAAIlGgACblRwSQUDpGr68AjjIwQ"
+                ]
+            },
+            {
+                "text": "Во имя магии!",
+                "sticker": "CAACAgIAAxkBAAIWkmIvb09I3-3REvXildYcNpcBof--AAJyEwACKvdBSUL4ctMs0dKpIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMqGIt-Yn6KDPeSwQLkcE2kas0wC6-AAImGgACblRwSSA1BoEDm12hIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "BloodElf": [
+            {
+                "text": "Ты меня бесишь",
+                "sticker": "CAACAgIAAxkBAAIWpGIvb8difxjehaIs6qIFjSoiQzhrAAKFFQACF1tJSROEBeoJwtWMIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMumIt-Z_vh6NIXbentotknNeVlhTPAAIwGgACblRwSQYYq7M7dXh1IwQ"
+                ]
+            },
+            {
+                "text": "Я благороден от рождения",
+                "sticker": "CAACAgIAAxkBAAIWpmIvb9JaWTbZHdn0k0qXwMKopNxAAAIGGQACQN5ISYmzx_cfHB96IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM0GIt-bj5nZW8JcbbhEffuuv38dDEAAI7GgACblRwSUUfCQKqyPAzIwQ"
+                ]
+            },
+            {
+                "text": "Крылья... Ноги... Хвосты... --- Главное - кровь!",
+                "sticker": "CAACAgIAAxkBAAIWtmIvcDg6NT8Kk9rq9CPMvNNnCn2bAAJNFAAC971JSYv8m-gGJ0uxIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM1mIt-b-QGvVsc3UvVyB1VZiwnWo9AAI-GgACblRwSWme1s5A1gABvSME"
+                ]
+            },
+            {
+                "text": "Не гнев правит мной, а я гневом. --- Чего и вам желаю",
+                "sticker": "CAACAgIAAxkBAAIWumIvcI9mvRjxQ7jJJVeCv0n6-4fLAAI-GAACAsZJSYsMXR53BDzXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM2GIt-cGzrXEN-2U1xILgch8cK21TAAI_GgACblRwSbGv0LWIrAc8IwQ"
+                ]
+            },
+            {
+                "text": "Привет, меня зовут Рой --- Я тут подсел на магию...",
+                "sticker": "CAACAgIAAxkBAAIWvGIvcJo7snUo95n951Dvc2uhgmSuAALZGAACRyJISaE9K1BPKuB9IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM2mIt-cTkPtQca77vOxKXTfADM_k9AAJAGgACblRwSYniVm6r3PxHIwQ"
+                ]
+            },
+            {
+                "text": "Моя кровь кипит жаждой мщения за кровь моего народа...",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIM3GIt-ciG8phGkQLi9HgAAVQZNvcRagACQRoAAm5UcEkigL3CLB_faSME"
+                ]
+            },
+            {
+                "text": "Огонь и смерть!",
+                "sticker": "CAACAgIAAxkBAAIWvmIvcKuTMxhLOfevN2Zh7HojTxcgAALVHQACcrpJSZ73cSmSZKldIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM3mIt-cqy4ibN-40Yg9Gygyn-obZSAAJCGgACblRwSUsEASqefuZYIwQ"
+                ]
+            },
+            {
+                "text": "Во славу старшей крови!",
+                "sticker": "CAACAgIAAxkBAAIWwGIvcL_tUCQx6u3QLspIRaWHB9QXAAKuFQACt_5JSXeRuEfrfp6PIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM4GIt-cwTCM1f6N7xbZY3V7BU37OwAAJDGgACblRwSVlwmp83ea_hIwQ"
+                ]
+            },
+            {
+                "text": "Говори",
+                "sticker": "CAACAgIAAxkBAAIWwmIvcMpqvEK-RpoGWOuWHtzngfnbAALpGAACSoVISeFLbBMEKNw6IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM4mIt-c_5cx4gFni6zJb9IaPSEumNAAJEGgACblRwSfXeP3jImpAfIwQ"
+                ]
+            },
+            {
+                "text": "Изера'до",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIMvGIt-aEFMpVmWs7OJCmiP7RTFyxzAAIxGgACblRwSVhUZQb1DSHjIwQ"
+                ]
+            },
+            {
+                "text": "Зло приблежается!",
+                "sticker": "CAACAgIAAxkBAAIWqGIvb-WxEl4UG2vT6qmHRw5o9CSpAALwFwACTd5JScNfGBWymSC2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMvmIt-aOvCYL0XDZ86EaC7VWRU2oRAAIyGgACblRwSZtrL78NX_X9IwQ"
+                ]
+            },
+            {
+                "text": "Я жду, смертный...",
+                "sticker": "CAACAgIAAxkBAAIWqmIvb_I-fN-s7Z5mpC9zc3BXk0_TAAI5FAACSklJSQJmyKBq4tWDIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMwGIt-aaK4-DGzbIk3M5iH4PW8PLFAAIzGgACblRwSbUHdpEbg89nIwQ"
+                ]
+            },
+            {
+                "text": "Я устал ждать",
+                "sticker": "CAACAgIAAxkBAAIWrGIvb_Mj63NXHlVePhRvA389MrbqAAKBFwAC6KBJSdwxaVLrIkcrIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMwmIt-ah_sXNje3BsGzpWdtpK7wkDAAI0GgACblRwSYALILjG7cebIwQ"
+                ]
+            },
+            {
+                "text": "Анду-фала-дор! (Да будет восстановлен баланс)",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIMxGIt-auZ9nBGPw38wBFIkmLk_0LfAAI1GgACblRwSbnf6_cL4Qz2IwQ"
+                ]
+            },
+            {
+                "text": "За мой народ!",
+                "sticker": "CAACAgIAAxkBAAIWrmIvcBS3pwrnX3b2oEApcY9lzzacAAIdFgACCr9ISZE8ESOjSesaIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMxmIt-a3EdLqTt_niasGiUptwhnjsAAI2GgACblRwSRwrTtUMGmbpIwQ"
+                ]
+            },
+            {
+                "text": "Асета балана!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIMyGIt-a8YMTI0BmXZSijdfj90xUIUAAI3GgACblRwSQwGzIdR7xuJIwQ"
+                ]
+            },
+            {
+                "text": "Да будет так!",
+                "sticker": "CAACAgIAAxkBAAIWsGIvcCUkn2F2GxJ9ftO5p1QvSiZyAALsGQAC9MNISSPEdOwh3uQzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMymIt-bH3gy7Vyibra1uejWvPe0FdAAI4GgACblRwSbSWA82xfdeUIwQ"
+                ]
+            },
+            {
+                "text": "Проще простого",
+                "sticker": "CAACAgIAAxkBAAIWsmIvcCehM_4SxmXrcbvq8HCj0QABXgACghYAAkptQUlyCn-osI0WfSME",
+                "voice": [
+                    "AwACAgIAAxkBAAIMzGIt-bRLEeSkbIRb04lzp3QIHCUyAAI5GgACblRwSVMeC0AAAbZkZSME"
+                ]
+            },
+            {
+                "text": "Сожгу дотла!",
+                "sticker": "CAACAgIAAxkBAAIWtGIvcDcqAQdhSNvdJcGtivqOY7Y7AAJnFwACi1RJSbUV34zojHJtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIMzmIt-bYL5-KZMA4XktR-0wKtp3dBAAI6GgACblRwSQ_vSFc59QvSIwQ"
+                ]
+            },
+            {
+                "text": "За Кель'Талас!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIM0mIt-bprJVVgIgLs4Zf04_zec_UzAAI8GgACblRwSdl3zLfKuf2AIwQ"
+                ]
+            },
+            {
+                "text": "Здесь будет жарко!",
+                "sticker": "CAACAgIAAxkBAAIWuGIvcFsIhdmCCz5zehE-tw-IC4-xAAIHGQACRtdISXIYwz_99fd8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM1GIt-bxYSE4WTyRn5QODh576p7unAAI9GgACblRwSZJE9UON_mq1IwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "BloodElfDragonHawk": [
+            {
+                "text": "Ещё раз щёлкнешь не по делу... --- Считай покойник...",
+                "sticker": "CAACAgIAAxkBAAIWxGIvcOKR6eAZMMGTomuUuxzE8QyTAAIgFQACc0pISSNehWtWh87mIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM5GIt-dH1trxCQ_8uzwj6_7SlCKMKAAJFGgACblRwSZCseltP_CftIwQ"
+                ]
+            },
+            {
+                "text": "Ты прав, смертный --- Со мной лучше не связываться",
+                "sticker": "CAACAgIAAxkBAAIWxmIvcO3HyOkl-T-8lF5qc-t6Ph0SAAKhFQACEupJSW4dqjg6p9AKIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM-mIt-fOwDpCOizw1BJ1qCNrQOr0ZAAJQGgACblRwSTgVwHGq-3XzIwQ"
+                ]
+            },
+            {
+                "text": "Гляди: Сейчас я вдарю по тормозам, а он полетит дальше --- АААААААААААА",
+                "sticker": "CAACAgIAAxkBAAIW3GIvcW1ziDx8D1ja5VTtgAs1TAFIAAK0EwACNH5JSYq_WjRZqLL6IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINBmIt-gkOC4VPuC03AAFWT84GLzgZHwACVhoAAm5UcEnhzzrKEKFW0iME"
+                ]
+            },
+            {
+                "text": "Совершенно верно --- Вооружен и очень опасен",
+                "sticker": "CAACAgIAAxkBAAIW5mIvcakbTOxZgmeu-zenNYuDcsKRAAKaGQACWFhISfKEwriZ1b4CIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINCGIt-gzRUW_tEg5oaMWZaxfZwL2AAAJXGgACblRwSefx5brkMMjfIwQ"
+                ]
+            },
+            {
+                "text": "Blizzard выпустит мою фигурку --- Посмертно",
+                "sticker": "CAACAgIAAxkBAAIW6GIvcb-cxaB2EgsFHt3CQa3GNY4YAAJYFAAChgJBSQcU1l8gYs2SIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINCmIt-g-pxAv1DfoBAyA0GSYD0WuFAAJYGgACblRwSeSh0MccuX9kIwQ"
+                ]
+            },
+            {
+                "text": "Полёт проходит на высоте 15-ти тысяч --- Командир экипажа прощается с вами",
+                "sticker": "CAACAgIAAxkBAAIW6mIvcc7GmMxwj5qEmj64TjDkZvodAAKMGAAC5gJISWDCObGb_gJtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINDGIt-hOjwpa7V3_GLg0HJ_xHA4kZAAJZGgACblRwSXBze3F_zy_DIwQ"
+                ]
+            },
+            {
+                "text": "Что здесь делает эта козочка?",
+                "sticker": "CAACAgIAAxkBAAIW7GIvcd6HLQlD7i2YggXvDBQ0_5WdAAK0FwACiVFISW_2N1eOdNwOIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINDmIt-hU9cM3lGGoRuu8RFyjy2jeKAAJaGgACblRwSajZXdp8SvwEIwQ"
+                ]
+            },
+            {
+                "text": "Брось гадость! --- Фу! Нельзя! Плюнь!",
+                "sticker": "CAACAgIAAxkBAAIW7mIvcd9MTvW5aEp4V8fYObVIXRM9AAJmFAAC6-pJSYPJlgHY5yDDIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINEGIt-hh4hhblMMFrb5ZSb8gbQGSgAAJbGgACblRwST2TGqG-L6V6IwQ"
+                ]
+            },
+            {
+                "text": "Слава высшим эльфам!",
+                "sticker": "CAACAgIAAxkBAAIW8GIvce19ErpnmjZXPF4baA3xWPm7AALbFwACGxpASV0EohG2bJbtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINEmIt-hoSyL1d4QaG4Tqwi6dAgmVUAAJcGgACblRwSdu6n7GaGV1kIwQ"
+                ]
+            },
+            {
+                "text": "Я в гневе!",
+                "sticker": "CAACAgIAAxkBAAIW8mIvce6oqhr2I9HVKfSuQ5BQ0iMEAAICFwACfN9ISaYrTi2UBpbvIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM5mIt-dS6OrHm-sN5G0N8pq244D6kAAJGGgACblRwSV5dYKdxXqKBIwQ"
+                ]
+            },
+            {
+                "text": "Быстрее, смертный!",
+                "sticker": "CAACAgIAAxkBAAIWyGIvcP9yPmfqml8_tPfZFubttxHQAALQFAACQnNASZfjY18RfrZdIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM6GIt-dZfddyvXTRQe6qUnRSVnVe9AAJHGgACblRwSVC08p4YGWFDIwQ"
+                ]
+            },
+            {
+                "text": "Что?",
+                "sticker": "CAACAgIAAxkBAAIWymIvcQpqOPwUa9HRreBtWeT_c6QqAAK-FgACOS9JSe3CNIe55kY0IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM6mIt-dhlhydUkA89vAKXI-kyMG-fAAJIGgACblRwSab0LfDNUUr9IwQ"
+                ]
+            },
+            {
+                "text": "Поторопись, смертный",
+                "sticker": "CAACAgIAAxkBAAIWzGIvcRqO67uB8yHqz2IsUrhT4X0KAAIzGQAC1LBJSb6FLfjdEjQBIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM7GIt-dsKHmyScqttDXYfI4EY3OayAAJJGgACblRwSUiWdvMs0aNDIwQ"
+                ]
+            },
+            {
+                "text": "К бою готов!",
+                "sticker": "CAACAgIAAxkBAAIWzmIvcSYLNK8iZPTv1RZXIPRUzM8aAAJMHgACP8xJSRBreyhNaLodIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM7mIt-d3dCaGdKUeq2BYP4NwWWeerAAJKGgACblRwSSK_i4HQEQbDIwQ"
+                ]
+            },
+            {
+                "text": "Куда летим?",
+                "sticker": "CAACAgIAAxkBAAIW0GIvcSax6PaAxm8iXAugfUE3Mbs-AAIuEwACeMxISUzXn1C2Cd5dIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM8GIt-eCH5mNbJBiSbSJHo2Kt0j1qAAJLGgACblRwSU_p1n8at_0xIwQ"
+                ]
+            },
+            {
+                "text": "Уже лечу!",
+                "sticker": "CAACAgIAAxkBAAIW0mIvcTUt7ls_6pS5RR-E-eXx339lAALkEwACYuhISZqeAip2UIMQIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM8mIt-eRBQ0TLXJRnaDga1OquqFfrAAJMGgACblRwSbB_8hTYCnSMIwQ"
+                ]
+            },
+            {
+                "text": "Небо зовет!",
+                "sticker": "CAACAgIAAxkBAAIW1GIvcTyIjMxltvaOJA6fXKO9lsOAAAI9FwACDLpISWGbCJ6wmsE7IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM9GIt-ehoM8b-IxQypqf7pOoxLFOeAAJNGgACblRwSR8Y6mgXvXLyIwQ"
+                ]
+            },
+            {
+                "text": "Быстрее ветра",
+                "sticker": "CAACAgIAAxkBAAIW1mIvcUXYY0A6mFAqILvDSHFwqFzvAAKaGgACVNNJSR0UhshGAsGEIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM9mIt-exPL8G0jBymWZKhwhE8irwSAAJOGgACblRwSd7XhTjGfj1aIwQ"
+                ]
+            },
+            {
+                "text": "Лечу!",
+                "sticker": "CAACAgIAAxkBAAIW2GIvcVgQ-naeaXD-EQZ1DkP3CV3FAAJsFgACe2BJSXJQM3M_uHkbIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM-GIt-e_GA8GzLNGkt_NEzE9OYICeAAJPGgACblRwSUm6n5eETYCdIwQ"
+                ]
+            },
+            {
+                "text": "Как гром с небес",
+                "sticker": "CAACAgIAAxkBAAIW2mIvcWH-MTAMjM4MArHT2HU4TDhOAAIdFQACI3pJSZ9CvSx9YqGeIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM_GIt-fZfSQFoqOfBZGEIZhaoVREvAAJRGgACblRwSZ6KJrFl04G1IwQ"
+                ]
+            },
+            {
+                "text": "Трепещите враги!",
+                "sticker": "CAACAgIAAxkBAAIW3mIvcXh2YitdiXo_12BwXsOy1VZrAAJkGQACvU9JSSimAav3xihRIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIM_mIt-fiy0pSgJhwbaSr4Af2dkzsGAAJSGgACblRwSbipGwPeIseLIwQ"
+                ]
+            },
+            {
+                "text": "Я отомщу!",
+                "sticker": "CAACAgIAAxkBAAIW4GIvcYWwvozTWcqUUclyzzkRQv9_AAJqFwACIYtJSb7msAWFNcdTIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINAAFiLfn8rUDt_t2AtRTgMPnnJkdFTQACUxoAAm5UcEmC41AtAWf4AiME"
+                ]
+            },
+            {
+                "text": "Их ждет смерть!",
+                "sticker": "CAACAgIAAxkBAAIW4mIvcY-Ge3W2aEB3e8LDTyH-7bOCAALfFgACaGJBSbZotAI-q-7BIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINAmIt-gQPJmtiyVFU0o11YlVPsaHfAAJUGgACblRwSc65Go4z_ZtEIwQ"
+                ]
+            },
+            {
+                "text": "Никакой пощады!",
+                "sticker": "CAACAgIAAxkBAAIW5GIvcZhBjH9UXyVONoO9B7Nx4P4EAAINGAACIj1JSUiOq-1YU2o2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINBGIt-geiuSk8IB-4-PuvZg8KSmQpAAJVGgACblRwST9TUBRp8UIpIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "BloodElfSpellThief": [
+            {
+                "text": "Я прирождённый маг! --- Кто-то не согласен?",
+                "sticker": "CAACAgIAAxkBAAIW9GIvcgjay20TfQI81z4WtIFQ07efAAIpFQACvANJSbUfB0tsQ1URIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINFGIt-hy3dPyt1JP4iIaap7swYWaEAAJdGgACblRwSZMp9zgN5M9tIwQ"
+                ]
+            },
+            {
+                "text": "Красть заклинания это пошло --- Всё надо делать своими руками",
+                "sticker": "CAACAgIAAxkBAAIW9mIvcg80zpEB8bx89W1lZ5McZLllAAKPFQAC2rRJSUcAAd8pQPwzKyME",
+                "voice": [
+                    "AwACAgIAAxkBAAINKmIt-jOPdQa4wtNwouEtF2EW7YkWAAJoGgACblRwSVrxWoiKd2ZYIwQ"
+                ]
+            },
+            {
+                "text": "Я украл его! Прелесть! --- Голм... Голм...",
+                "sticker": "CAACAgIAAxkBAAIXCGIvcoFgCFg9aLwgf5sR-pDDyBRfAAIPFwACdNdJSSa4Md661WxRIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINLGIt-jnsFh_uD-mrUsLWwg9oYWLIAAJqGgACblRwSVeQjgoPXfQeIwQ"
+                ]
+            },
+            {
+                "text": "Ух, хорошая магия! --- Крепкая!",
+                "sticker": "CAACAgIAAxkBAAIXCmIvco77kQ6laDQMzuZIPNOFfVNsAAKyGQACkDxJSXXGnIdg-jHpIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINLmIt-jwNS70AAdm4xjFlyGvpIgvvDgACaxoAAm5UcEmo2lwWByJF0CME"
+                ]
+            },
+            {
+                "text": "Кто к нам с мечем придёт --- Тот в орало и получит!",
+                "sticker": "CAACAgIAAxkBAAIXDGIvco8s5En0RglEx4mvif5xh_vqAAL4FQACuBhISQYKwaeDBQh4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINMGIt-kBy95uW2KudUYMsGM5K2rkWAAJsGgACblRwSZNUfNn8ovSzIwQ"
+                ]
+            },
+            {
+                "text": "Мне подвластна магия!",
+                "sticker": "CAACAgIAAxkBAAIXDmIvcqQcOkTHAWCKwac4HJfTgMOsAALgFwAC8LJASRZfCNGhDvUjIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINMmIt-kM6k8zpUbg_Etjo-0ty_QjDAAJtGgACblRwSWW7HEm8sBiPIwQ"
+                ]
+            },
+            {
+                "text": "Эндинадор!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAINNGIt-kdO1xIYNwniZPuYYIimgEAvAAJuGgACblRwSY8YfLa7-PhTIwQ"
+                ]
+            },
+            {
+                "text": "Время не ждёт!",
+                "sticker": "CAACAgIAAxkBAAIXEGIvcqWW_ba4rxsPXjuhCEVaUqwnAALlFwACaA1BScdAUMrZpxodIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINNmIt-krJSsx1Z579pb3x1yYcCsd0AAJvGgACblRwSe8CsUEjKLGLIwQ"
+                ]
+            },
+            {
+                "text": "Быстрее!",
+                "sticker": "CAACAgIAAxkBAAIXEmIvcqdM_RmOeS08FGv3ZljxjOR6AAJQFgACRLBJSVpteCw_fRcfIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINOGIt-k9Wz0DcMP-MAAHhbLqAifTkigACcBoAAm5UcElCDJ-2aoimHCME"
+                ]
+            },
+            {
+                "text": "Магия будет моей!",
+                "sticker": "CAACAgIAAxkBAAIXFGIvcr3HXgrSlvo0B8yb31VlgSVsAAJsGgACVPdISYOqMZaQy-qhIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINFmIt-h5LK9I1vC_zilgN0wpnp70SAAJeGgACblRwSXFcqr3TDo4GIwQ"
+                ]
+            },
+            {
+                "text": "Ну, что там?",
+                "sticker": "CAACAgIAAxkBAAIW-GIvchADighHDYRctRX1o7VxWJxAAAKbEgACfVxJScigmobce6FnIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINGGIt-iDlmpPUP92gZ5I2RlKtSYRLAAJfGgACblRwSRdtr-UGj0BXIwQ"
+                ]
+            },
+            {
+                "text": "Легко!",
+                "sticker": "CAACAgIAAxkBAAIW-mIvci48hyWf2UHlwqWxbURk2I3SAAKFFQACtftISRI-s6oEVKzwIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINGmIt-iI2jWz9bKbLtp07y3CQfEGCAAJgGgACblRwSfkU65TR_LcHIwQ"
+                ]
+            },
+            {
+                "text": "Всего то!",
+                "sticker": "CAACAgIAAxkBAAIW_GIvci8yhxLgx4B-99eRIilqeVxrAALZFgACebFISXiAnqunkzt4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINHGIt-iRpDljlGC7AVX_3Gu5_4b_tAAJhGgACblRwSQo0tD-1hFWhIwQ"
+                ]
+            },
+            {
+                "text": "Смотри и учись",
+                "sticker": "CAACAgIAAxkBAAIW_mIvcjzQt1tmhSCpiFcO5tiReXs0AAK-GQAC77ZJSb8AAVXuggRlSyME",
+                "voice": [
+                    "AwACAgIAAxkBAAINHmIt-ib0LidJULNjpnb-s52D_89eAAJiGgACblRwSZOuaZ28SzxgIwQ"
+                ]
+            },
+            {
+                "text": "Хорошая мысль!",
+                "sticker": "CAACAgIAAxkBAAIXAAFiL3I9XxPPQEwkDucyxaAMpFrfNwACNhkAAohzSUllevJvuqXKsSME",
+                "voice": [
+                    "AwACAgIAAxkBAAINIGIt-ihZC6gf4ANgj8l_1dC8GhZXAAJjGgACblRwScHgtR9HWp19IwQ"
+                ]
+            },
+            {
+                "text": "Неплохая идея",
+                "sticker": "CAACAgIAAxkBAAIXAmIvclSFHy1np78P2Li_2z3DamAUAAK3GAACXHhISeU4lv8WVzxIIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINImIt-ir8MToMdPzwSAzWodgVkYxLAAJkGgACblRwSZ1STAABnDkhoCME"
+                ]
+            },
+            {
+                "text": "За Кель'Талас!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAINJGIt-iy2-2VQlo44_I02RsGbDk_aAAJlGgACblRwScW1poI0XzvMIwQ"
+                ]
+            },
+            {
+                "text": "Наконец-то",
+                "sticker": "CAACAgIAAxkBAAIXBGIvcmLnkDIRgY-5B8-spL-mvdR3AAK-FgACcVFBSQqklyqq8FtAIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINJmIt-i_kE5p0ZKJDzEtoYj36IwABYQACZhoAAm5UcEllDNkOAvg8RyME"
+                ]
+            },
+            {
+                "text": "Магия принадлежит мне",
+                "sticker": "CAACAgIAAxkBAAIXBmIvcmkDnecwvYA1UepHAzN3e2g4AAI5GQACzkVISXhkGnUtftWsIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINKGIt-jHt8Q5hSNzA10yBy9Kx3ArQAAJnGgACblRwSekVplyGpEQsIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "FootMan": [
+            {
+                "text": "Почему я не генерал? --- Щёлкать я тоже умею",
+                "sticker": "CAACAgIAAxkBAAIXFmIvcs-U-GkkQP1FU9x82W7JtvkdAAJTFQACzetJScE6Zshg3RVtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINOmIt-lJ2K8E4yZa0EkDhOlGFcp-RAAJxGgACblRwScRy0BP3hYClIwQ"
+                ]
+            },
+            {
+                "text": "Мой меч - голова орка с плеч!",
+                "sticker": "CAACAgIAAxkBAAIXGGIvcteIIh_eKKc1jZB8i-L3XUifAALHGgAC5gtISRD_nfxBQzwzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINTGIt-m1eC39rMYGeJQzHoCq15P-MAAJ6GgACblRwSdzxITv73rmyIwQ"
+                ]
+            },
+            {
+                "text": "Обращайтесь по уставу!",
+                "sticker": "CAACAgIAAxkBAAIXJmIvcyGWNBIOo9xQ3zNEejFfOsaRAAKPHAAC-9FJSSFn-BrdtNl2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINTmIt-m-NID3t7OS3A5dWh1XqTyBsAAJ7GgACblRwSbIdxzLQumMsIwQ"
+                ]
+            },
+            {
+                "text": "Вернусь домой - убью военкома!",
+                "sticker": "CAACAgIAAxkBAAIXKGIvcyNXW-2OBFoYh_-_ZwTIaB6nAAJQFwACMOhJSePuAAFhdZp6TyME",
+                "voice": [
+                    "AwACAgIAAxkBAAINUGIt-nJHfev8fbR88Vand1zkBWDVAAJ8GgACblRwSVFHoZf9XE7HIwQ"
+                ]
+            },
+            {
+                "text": "Жду приказаний",
+                "sticker": "CAACAgIAAxkBAAIXKmIvcyRjdhMEPKfuPcxcdynNpcaHAAKbFwACuQlJSTyBTPWL0eNqIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINUmIt-nTLPkULyjDrJ_tfT_VTRYXGAAJ9GgACblRwScgXgaV6O4feIwQ"
+                ]
+            },
+            {
+                "text": "За Лор'Дерон!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAINVGIt-nZfVQ18T8i5eJWRkNVh3eGYAAJ-GgACblRwSS3RGLc1RQAB9SME"
+                ]
+            },
+            {
+                "text": "Что прикажете?",
+                "sticker": "CAACAgIAAxkBAAIXLGIvc0AEnahfgtWdvLmlQ1nipz-3AAKMGgACQ4JJSWesNc6iNEIgIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINVmIt-ngMN9KLzI6mZwg7uU3a20gxAAJ_GgACblRwSSHejEhPUclVIwQ"
+                ]
+            },
+            {
+                "text": "Да, ваше сиятельство!",
+                "sticker": "CAACAgIAAxkBAAIXLmIvc0HBQR_fK_W89s5AsFwHkRvcAAJ8FAACh7lBSWjTlBILot4BIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINWGIt-nqlucEBBiRZBTJquVptoGPkAAKAGgACblRwSdpl6EoY4UbKIwQ"
+                ]
+            },
+            {
+                "text": "Как скажете!",
+                "sticker": "CAACAgIAAxkBAAIXMGIvc0Lgv3AwT3GwMlWCC7fcR9WFAAJfFgACO_tJSWjvF4Y7x0OhIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINWmIt-nwKGObSgaMPVVf831yQbnT7AAKBGgACblRwSXNBzIcrYtetIwQ"
+                ]
+            },
+            {
+                "text": "Да, ваше бродие!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAINPGIt-lflrjYNliuIfgtSF0slPMPMAAJyGgACblRwSRpuPnW5V81dIwQ"
+                ]
+            },
+            {
+                "text": "Есть!",
+                "sticker": "CAACAgIAAxkBAAIXMmIvc2Mqx7mRrpnAW0YZLVi0-MU6AAJjGQACXR1ISYnIhK3Y0vZ3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINPmIt-lvQ_t-WK2eq_jaJTO1EBSHoAAJzGgACblRwSfJaY8d4LQVhIwQ"
+                ]
+            },
+            {
+                "text": "Будет исполено",
+                "sticker": "CAACAgIAAxkBAAIXGmIvctg7tiQflFWCq_f-PICQz8YjAAKnFwAC0jRBSYDc_8Jic1AOIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINQGIt-l4gDmzHQUijMcCy1keHDD3RAAJ0GgACblRwSbyLcPf4pDOEIwQ"
+                ]
+            },
+            {
+                "text": "Так точно!",
+                "sticker": "CAACAgIAAxkBAAIXHGIvcuZJ_xuc_SBSjZ6FM-l8e9U7AAI1GAACTEJJSSu5jvtHsyJQIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINQmIt-mBD39U5eFbW6P7m_wABXg3YMwACdRoAAm5UcElpWRlv_okkQCME"
+                ]
+            },
+            {
+                "text": "Рота подъем!",
+                "sticker": "CAACAgIAAxkBAAIXHmIvcueWumNZnW7GigJEVU8xI9ONAAIwFgAC4N1BSYMUsoj6lcROIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINRGIt-mStrUsZ6GDkoP2u-7U-wbEkAAJ2GgACblRwSb4j6_xFSB2tIwQ"
+                ]
+            },
+            {
+                "text": "УРРААА!!!",
+                "sticker": "CAACAgIAAxkBAAIXIGIvcuhR4lmORV96g6yXlwoS6PHDAAKxFQACn-5BSbYKswokYkJtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINRmIt-mZvp-TreMTi7Q39JTTp8gd4AAJ3GgACblRwSc9HnPfbC0zXIwQ"
+                ]
+            },
+            {
+                "text": "В атаку!",
+                "sticker": "CAACAgIAAxkBAAIXImIvcwJlTOq6IvGB-PTQH6CQQxaMAALsEwACPSFISch_MYX5krMkIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINSGIt-mjH_lDP472LxzQFaRQdWHIJAAJ4GgACblRwSeFhwomIFMBFIwQ"
+                ]
+            },
+            {
+                "text": "К оружию!",
+                "sticker": "CAACAgIAAxkBAAIXJGIvcwS_qup62A9u8oVXoSfdlH6mAAKmGgACe91ISdMpy5muZdxGIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINSmIt-mshws-q8qsjheAYvxzpfO7_AAJ5GgACblRwSc_snp12TevPIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Gryphon": [
+            {
+                "text": "Что? Судишь обо мне по размеру?",
+                "sticker": "CAACAgIAAxkBAAIXNGIvc3rG5VFZRn8vDAAB0Z2YE8gyhQAC6xYAAtU5SUlYYcCor5FeWyME",
+                "voice": [
+                    "AwACAgIAAxkBAAINXGIt-oB-7okjRfJwGritjx7por4pAAKCGgACblRwSfK5bEdXmwEUIwQ"
+                ]
+            },
+            {
+                "text": "Размер молота не имеет значения --- Главное - умение попасть по шляпке",
+                "sticker": "CAACAgIAAxkBAAIXNmIvc3sw2wJnrGgYoxxdQmsKbjjsAAK8FwACsC9ISaukgY-QrE3rIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINcmIt-p2knNebcwoEvwrXO0665Z1VAAKNGgACblRwSSqUeyzBX5AOIwQ"
+                ]
+            },
+            {
+                "text": "Кто подложил мне эту крылатую свинью?",
+                "sticker": "CAACAgIAAxkBAAIXTmIvc_SuEfMbZsLmwKYmKF_W1ZscAALzFQACUj9ISZPtbzfTwlUsIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINdmIt-qL2h02kckdNAtt9nh1NdmBiAAKPGgACblRwSbktFatWIXsGIwQ"
+                ]
+            },
+            {
+                "text": "Клянусь бородой Мурадина!",
+                "sticker": "CAACAgIAAxkBAAIXUmIvdAMLZY-AHEneKasa4YDdc0gPAAKqFQACqZ5IST3ca7XnoGZiIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINeGIt-qSv3qPISuclgJgNaiaiW9aAAAKQGgACblRwSXB5YZsSw_87IwQ"
+                ]
+            },
+            {
+                "text": "А ну повтори!",
+                "sticker": "CAACAgIAAxkBAAIXVGIvdA0mU3vle-w8zs2cyrdFd3T1AAI5FgACKO5BSXQTrlAAAZJuESME",
+                "voice": [
+                    "AwACAgIAAxkBAAINemIt-qZYT68IxerZTJ_bjz5Vhrs4AAKRGgACblRwSZMcG2-xMUIAASME"
+                ]
+            },
+            {
+                "text": "Жду приказаний",
+                "sticker": "CAACAgIAAxkBAAIXVmIvdA7Sd5F3m3hBzCWfavQRDVQnAAL3FwACm_hISWCI6RTMFO7TIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINfGIt-qnIqVMid5MSAtu3uKqPFmLHAAKSGgACblRwSQABW_n_TOax9CME"
+                ]
+            },
+            {
+                "text": "За Кхас'Модан!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAINfmIt-qsBIBKtU8eX5rPz21tIyz0dAAKTGgACblRwSSmhcwABUYNuJiME"
+                ]
+            },
+            {
+                "text": "Положись на меня!",
+                "sticker": "CAACAgIAAxkBAAIXWmIvdC0p3_RjOd907tAB6DRFq0kGAAJ_FQACv7NJSU2JUT9mD6NoIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINgGIt-q1XqmNTomH--UWt8U00SsnUAAKUGgACblRwSWSMHS3xTmOhIwQ"
+                ]
+            },
+            {
+                "text": "Да",
+                "sticker": "CAACAgIAAxkBAAIXXGIvdDhvPixaf68DwdDp2XODPNNoAAKEFAAC-TZASVoIXrFz363-IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINgmIt-q_d2nICwcwaAUFSV3xFK3qsAAKVGgACblRwSZhzhp0vHlBGIwQ"
+                ]
+            },
+            {
+                "text": "Зоркий глаз...",
+                "sticker": "CAACAgIAAxkBAAIXXmIvdDnxRZQTBxNAFNGuvzONaMoEAAJwFwACMW5JSVuiF3lYgXy5IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINXmIt-oPgEVEM9tD0eGSfCOSn34RwAAKDGgACblRwSe3evSFey9e7IwQ"
+                ]
+            },
+            {
+                "text": "Выполню любой приказ!",
+                "sticker": "CAACAgIAAxkBAAIXOGIvc3yBHmhji0DbbOlxDEuISEEdAALMFwACrL9ISU7zzIwIj4hTIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINYGIt-oXFyH93zIJlb3bxMB3Mr_4SAAKEGgACblRwSc-sGlgKI1OVIwQ"
+                ]
+            },
+            {
+                "text": "Думаешь?",
+                "sticker": "CAACAgIAAxkBAAIXOmIvc5wku8xa2l0k7FCkYHId75I_AAJKFwACPCJIScml6hqUSxBZIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINYmIt-ogUbh2jyIb34U0m4gpnp3ATAAKFGgACblRwSambKqFt_GCcIwQ"
+                ]
+            },
+            {
+                "text": "Можешь на меня положиться!",
+                "sticker": "CAACAgIAAxkBAAIXPGIvc56grTy4JKG2Qp-7cSyt2BRjAALxFQACXqVJSTEdIzBUrT5uIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINZGIt-owyuT2cne2pWtbyJtByUMwCAAKGGgACblRwSXCpoSfw2t3tIwQ"
+                ]
+            },
+            {
+                "text": "Не подведу!",
+                "sticker": "CAACAgIAAxkBAAIXPmIvc69ibz5RQXPjzKM9_iBgfcqNAAKlFwAC3NtISaggZ4d5_z3wIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINZmIt-o7tdDdqitOmdEszMtmJW9aFAAKHGgACblRwSUejoXbHMOctIwQ"
+                ]
+            },
+            {
+                "text": "Без проблем!",
+                "sticker": "CAACAgIAAxkBAAIXQGIvc7FQSeCfF-SEbJZv6eoOwtfXAAKmFAACejJJSZ98wi1A-mkOIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINaGIt-pB0BYa_CUXHrTXCsfzziZW2AAKIGgACblRwSckqclq-RURVIwQ"
+                ]
+            },
+            {
+                "text": "Отлично!",
+                "sticker": "CAACAgIAAxkBAAIXQmIvc7I9D_89sJ4AAZCmJm7ozVxYPgACrxQAAvA4SEn-XxIFHuKm1CME",
+                "voice": [
+                    "AwACAgIAAxkBAAINamIt-pI4yDdjCGRpbmllp561Q54YAAKJGgACblRwSTv8BuUueqolIwQ"
+                ]
+            },
+            {
+                "text": "Полетели!",
+                "sticker": "CAACAgIAAxkBAAIXRGIvc8yD3DeutmAp-p3j8p908PizAAJnGgACmodBSbi3VFQx5oLMIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINbGIt-pYJCm1wiUQBw_bzZ-1lpepXAAKKGgACblRwSb3MxcrO_v1QIwQ"
+                ]
+            },
+            {
+                "text": "Смерть врагам!",
+                "sticker": "CAACAgIAAxkBAAIXSGIvc9aiSNTOVcVXSOzGKCrJykKyAAKKFQACy45ISSwvVugZIAsPIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINbmIt-pmuyE_cRsXxmsW_FWZ-AAFCcAACixoAAm5UcElQfyCTbITc0SME"
+                ]
+            },
+            {
+                "text": "За победу!",
+                "sticker": "CAACAgIAAxkBAAIXSmIvc97ZWLkoZ9vikjRmEjoqfYWBAAIgFwACTvtJSTgltG4f0WHiIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINcGIt-puXMNFUZkEHvqEU3J4rrMhTAAKMGgACblRwSWOKJQNr6AyGIwQ"
+                ]
+            },
+            {
+                "text": "Они не уйдут!",
+                "sticker": "CAACAgIAAxkBAAIXTGIvc-NG3L8WqxrhRevxMB3U_OUOAAIbFgACCkJJSZ7N1P1L1XVSIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINdGIt-p9OS-RI2Ce2F9I7Orso5y77AAKOGgACblRwSRqTszTJ4toPIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "GyroCopter": [
+            {
+                "text": "Иду на таран!",
+                "sticker": "CAACAgIAAxkBAAIXYGIvdFgMOFCrzEWG818iBFqtzP3SAAJJHAAC7HNISVAUxbXBxZQlIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINhGIt-rImuYDc0rcJvtO6P0qgR_eRAAKWGgACblRwSVDaXnV8olESIwQ"
+                ]
+            },
+            {
+                "text": "Ой... Кажется я уронил... бомбу...",
+                "sticker": "CAACAgIAAxkBAAIXYmIvdFtx-eAS3cqScAABaDKNCHF1ZAACCxUAAlpWSEneKWOKJxmIkCME",
+                "voice": [
+                    "AwACAgIAAxkBAAINmmIt-tHbP47Cet5DEcJL0wR0cT8CAAKhGgACblRwSc2k8rMFuTuUIwQ"
+                ]
+            },
+            {
+                "text": "Пойдёшь ко мне в ведомые?",
+                "sticker": "CAACAgIAAxkBAAIXeGIvdM8eSAhzjmHUFyjX0szcjtaDAALCFAACc5BJSa7AAQG4ix4UIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINqGIt-uXRr2kMvByr2QnciOylBy74AAKpGgACblRwSRpu8HuAeCktIwQ"
+                ]
+            },
+            {
+                "text": "ААААА --- Что-то щёлкнуло меня по лбу",
+                "sticker": "CAACAgIAAxkBAAIXemIvdNqGMqOpnraSgjMRd_re6VQ5AAJIGAACRDdJSXW2LpNkcv6MIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINqmIt-uhyxCNvd64P7cRsM8zapri9AAKqGgACblRwSQ4O9VVP0zgiIwQ"
+                ]
+            },
+            {
+                "text": "Угадай в каком ухе у меня жужжит",
+                "sticker": "CAACAgIAAxkBAAIXhGIvdQ3X-Ih2of2yR4qfuYj4whONAALPFgAC_-BAST4LIGdxvilyIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINrGIt-urJgYugGMUxePonF1E6eQq0AAKrGgACblRwScp1SerRad_DIwQ"
+                ]
+            },
+            {
+                "text": "Вижу Неопознанный Летающий Объект!",
+                "sticker": "CAACAgIAAxkBAAIXhmIvdRaVvCig6UkoP2Kr3Txe1RCaAALgFgACRChASa4f1ckjYGy4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINrmIt-u0Tc2Q_ZucdpoPwBUFQL99zAAKsGgACblRwSYahgc1L-SilIwQ"
+                ]
+            },
+            {
+                "text": "А сейчас я продемонстрирую вам эффект Доплера --- Доооооплеееееррр...",
+                "sticker": "CAACAgIAAxkBAAIXiGIvdR82-Z4rJisMwWhsKuucaMUtAAKIEwACAktISdD7EXSj9CGbIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINsGIt-u8ENQPEsBcIGZkN0pWCOvlwAAKuGgACblRwScbeDw446PxxIwQ"
+                ]
+            },
+            {
+                "text": "Нашёл стоп-кран. --- Нажимаю",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAINsmIt-vEp2YZO-WqDw3DM7JuPtA0uAAKvGgACblRwSTXW0Wa5ke0VIwQ"
+                ]
+            },
+            {
+                "text": "Экипажу требуется стюардесса",
+                "sticker": "CAACAgIAAxkBAAIXimIvdShLqxVQmqEUrAUM7SZQZBwAA84YAAJ4jEhJgqkCiZoIzAsjBA",
+                "voice": [
+                    "AwACAgIAAxkBAAINtGIt-vSDRBci4XMab_zLTnupkTAvAAKwGgACblRwScOUcjwgMY6rIwQ"
+                ]
+            },
+            {
+                "text": "К взлёту готов!",
+                "sticker": "CAACAgIAAxkBAAIXjGIvdTw_ls4Wcll0DOxajrqWC0HuAALIFgACyXdJScmevdpEvxooIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINhmIt-rQlCLJzX0jcIMYNb-I8PUF8AAKXGgACblRwSQYmDbLxKOXUIwQ"
+                ]
+            },
+            {
+                "text": "Ееехххуууу!",
+                "sticker": "CAACAgIAAxkBAAIXjmIvdURAZasVEr0LT5TRlFxqhVa_AAItGwACSgNISRFD7EWitYKTIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINiGIt-rdtx9WNrXJfTSLNy_qnUf1RAAKYGgACblRwSQvDx47Ul5DSIwQ"
+                ]
+            },
+            {
+                "text": "Приступим!",
+                "sticker": "CAACAgIAAxkBAAIXZGIvdF02K777rpdeMImUgMhObb_-AAI7FgACMe1JSaCOqkMzvzEMIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINimIt-rv8Rqdgo77BWH44_mR-ZcX2AAKZGgACblRwSe1Bs3XmXlStIwQ"
+                ]
+            },
+            {
+                "text": "Сообщите задание",
+                "sticker": "CAACAgIAAxkBAAIXZmIvdHd2GkepvawxTan8sqETa2VPAALAGgACfhJISejQLvDV5DrzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINjGIt-r3-TTsX1fd9hSI8kA_qxCMnAAKaGgACblRwSd1A1GLwU-phIwQ"
+                ]
+            },
+            {
+                "text": "Куда летим?",
+                "sticker": "CAACAgIAAxkBAAIXaGIvdHnd2CXLM_Xpbrmug22tQOa1AAK1FwACghFISfySUrICs9SZIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINjmIt-r9Nb_92eRklkFp9AAHpw-D0DAACmxoAAm5UcEkm6AABFVeYn-0jBA"
+                ]
+            },
+            {
+                "text": "Разрешите взлёт",
+                "sticker": "CAACAgIAAxkBAAIXamIvdI3gwu8o3SInRSKrLw6O_dcaAAJkFgACN31JSdhUttarkHPoIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINkGIt-sImOcjTv3SBt0QzbtCf1hJsAAKcGgACblRwSdPdua1ntd-nIwQ"
+                ]
+            },
+            {
+                "text": "Будь на связи",
+                "sticker": "CAACAgIAAxkBAAIXbGIvdJmwDmVjFcsVOn_c4kQgkKbYAAIzFQACEwZJSYEHb4Yk5JfnIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINkmIt-sTFV4JFBiC3alTo--NrqvopAAKdGgACblRwSZ6-cIcHhILOIwQ"
+                ]
+            },
+            {
+                "text": "Вас понял",
+                "sticker": "CAACAgIAAxkBAAIXbmIvdKEi8BkGnFheSfXjpEU0Xdf3AAIgFgACf2NJSVtfMNl21LQBIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINlGIt-sifb4ZFoDlo7VkcsyPsX7sZAAKeGgACblRwSdbOtc6fEvrpIwQ"
+                ]
+            },
+            {
+                "text": "На взлёт!",
+                "sticker": "CAACAgIAAxkBAAIXcGIvdKgBpLaTKb3oDEKyabDCbk2HAAKGFwACUslISQ4kjjARvkv8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINlmIt-sqFlcFHqudgbYvU5MHq8HzxAAKfGgACblRwSQpDGyZ9UGLZIwQ"
+                ]
+            },
+            {
+                "text": "Врубаю форсаж!",
+                "sticker": "CAACAgIAAxkBAAIXcmIvdK_7kKJl8OcK_Kdpxl-0KJsOAAKJGAACW71JSeDTQE9rtacWIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINmGIt-swnXAySBgz9Bmns0n4RzvxrAAKgGgACblRwSQwP9AzpI5sDIwQ"
+                ]
+            },
+            {
+                "text": "Понял! Отбой!",
+                "sticker": "CAACAgIAAxkBAAIXdGIvdLbPTRTlp14VseFpmsvEi_gXAALUFQACcRVJSepDzLVbsHzpIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINnGIt-tMj6sqXQc8ydQABl7einjz0iwACohoAAm5UcEl0dC2Og3JYJSME"
+                ]
+            },
+            {
+                "text": "От винта!",
+                "sticker": "CAACAgIAAxkBAAIXdmIvdLxCrKDgUays80Cs-K-YKdT4AAK7FwACLuxJSW91N-oItQVBIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINnmIt-tfaicWSJYYbBSvrF_xsmB00AAKjGgACblRwSUqynSe2FrrTIwQ"
+                ]
+            },
+            {
+                "text": "Это вам от меня!",
+                "sticker": "CAACAgIAAxkBAAIXfGIvdOMMths8sWrMmfAMq8ZssFC0AALZFwACe5xJSX5xx8D3kcrnIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINoGIt-tlXeJZRomsOym5qVbTQiLRCAAKkGgACblRwSbfabjO7DM8iIwQ"
+                ]
+            },
+            {
+                "text": "Вижу цель!",
+                "sticker": "CAACAgIAAxkBAAIXfmIvdO52UGroY0u3SG-cq-RFWG6AAAIpHwACtPxISTO0mKLP3kCsIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINomIt-twqzgw4iqmym-JRJQFEZ5hJAAKmGgACblRwSXKxWKSUZUsLIwQ"
+                ]
+            },
+            {
+                "text": "Получай!",
+                "sticker": "CAACAgIAAxkBAAIXgGIvdPVJEyRtEgGZdQaC6omKEDBqAAJ4FAACOflJSeUH4v7s7EK8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINpGIt-t-5VhTsCIoj1ncr2ITJ1iMMAAKnGgACblRwSbmWxMttyLeUIwQ"
+                ]
+            },
+            {
+                "text": "Огонь!",
+                "sticker": "CAACAgIAAxkBAAIXgmIvdP2QYfiEU_PZrHls2VyqZKbYAALoFQACxepISQ341k5mzgABTCME",
+                "voice": [
+                    "AwACAgIAAxkBAAINpmIt-uLJb2cy5-UnBnpg_6hjG90JAAKoGgACblRwSapUKlL1DVORIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Knight": [
+            {
+                "text": "Наше дело правое! -- А врага найдём...",
+                "sticker": "CAACAgIAAxkBAAIXkGIvfT9S9_DWrWREk_BhffKkVl_nAALZFgAC1IFASeAEAqKAY3BzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINtmIt-vcvNXd1s05WSDf-iy3fz-vUAAKyGgACblRwSb_gqgABOZputiME"
+                ]
+            },
+            {
+                "text": "Занят я --- Завтра приходите!",
+                "sticker": "CAACAgIAAxkBAAIXkmIvfUcQu7rBU70vSLRqsXT3o60fAALeGQACFQxJSVfHVFpFyTRXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINzGIt-xUTL3lGo_IDWlXr7jxup3JjAAK9GgACblRwSb7HpNWyBS1SIwQ"
+                ]
+            },
+            {
+                "text": "Молчать! --- Я тя спрашиваю!",
+                "sticker": "CAACAgIAAxkBAAIXpmIvfbziwK5nwghaxLvOhFcXaqz5AAIFGAACwy9JSSJlH2pfO8PSIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINzmIt-xcT8vRcO12sn4KxFadrLmqNAAK-GgACblRwSTUgulaiicjgIwQ"
+                ]
+            },
+            {
+                "text": "Лор'Дерон победит",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIN0GIt-xk_i_cNHGFd4LJ6PtOUSFN6AAK_GgACblRwSVCQ3Kprn6QlIwQ"
+                ]
+            },
+            {
+                "text": "О Боги... Боги...",
+                "sticker": "CAACAgIAAxkBAAIXqGIvfch_amHGzfF2L3DlKvs0HRsMAALsFQACywRBSfVAbKOee-EhIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN0mIt-xyghguPV77ViiGpekAR89dEAALAGgACblRwSV9QAhl8nwfEIwQ"
+                ]
+            },
+            {
+                "text": "Проклятый шлем... --- Никак не могу его снять",
+                "sticker": "CAACAgIAAxkBAAIXqmIvfdqfcwTmc7lYorjdA6SdrP0zAAIdGAACcdVJSSXI_n0LbHXJIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN1GIt-x4eYD3IU4B4uOsgo_tM67CPAALBGgACblRwSUjI3tvDMriXIwQ"
+                ]
+            },
+            {
+                "text": "Жду приказаний!",
+                "sticker": "CAACAgIAAxkBAAIXrGIvfel_wyF7fN9BLBfJcP06igjjAAJsFgACu3BISScTZ9YrZ8L4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN1mIt-yGrQAM9rJ-UvLMxnoyOPDl1AALDGgACblRwSX9v_55d4rJqIwQ"
+                ]
+            },
+            {
+                "text": "За честь и свободу!",
+                "sticker": "CAACAgIAAxkBAAIXrmIvffRoZRhNaAPks7PZWUhE8-9fAAJRFwACD75JSWu-RrTLGAJhIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN2GIt-yO_WXl896pu_PB-82kW8buqAALEGgACblRwSfxgKtI_I9OhIwQ"
+                ]
+            },
+            {
+                "text": "Ваша светлость!",
+                "sticker": "CAACAgIAAxkBAAIXsGIvffu1SxFGHrmRpkGfkIWeGkTbAAIkEwACTFBISWia5tldw7ufIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN2mIt-yV8U97e-yOlFsieo_MWgkcQAALFGgACblRwSYGn2RXqofm8IwQ"
+                ]
+            },
+            {
+                "text": "Ваша честь!",
+                "sticker": "CAACAgIAAxkBAAIXsmIvffzMDXox-aORb_PDy8uMGE9hAAKNFwACW_xJSfAuRvbufBy8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINuGIt-vobNAw1hzRt37RI7F_3syizAAKzGgACblRwSdHJM55DtiNSIwQ"
+                ]
+            },
+            {
+                "text": "Приказывайте!",
+                "sticker": "CAACAgIAAxkBAAIXlGIvfVITyc7NTQ5sjsF10YyHjtpvAAIcGgACx9BISUlmWVq40RmNIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINumIt-v1-yV_zw7anBw5Dr6BtP4mxAAK0GgACblRwSbNh7DCr3BO5IwQ"
+                ]
+            },
+            {
+                "text": "Да, милорд!",
+                "sticker": "CAACAgIAAxkBAAIXlmIvfWA3B2HUjvnrtybj90aVDuFEAAJqFwAC_ypJSaV98qK6G0AzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINvGIt-v_HGZR9N7lg2Oc28twOhMtDAAK1GgACblRwSWVKuAPfesQ7IwQ"
+                ]
+            },
+            {
+                "text": "Будет исполнено!",
+                "sticker": "CAACAgIAAxkBAAIXmGIvfWqpHd_0REgWH5gujjpXIYg2AAKyFAAC4OZISaWO9hOeyNhoIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINvmIt-wOFWKx6Xx_i12-s-l86ODskAAK2GgACblRwSX_grDKzbyY3IwQ"
+                ]
+            },
+            {
+                "text": "Да будет так!",
+                "sticker": "CAACAgIAAxkBAAIXmmIvfXc2o5iGwE7DarW5EKEuSFqPAAJfFgAC7JNJSXIAAWz6nS_zNCME",
+                "voice": [
+                    "AwACAgIAAxkBAAINwGIt-wclLClocK25myGhxVz4WRUgAAK3GgACblRwSciadw3qfYZhIwQ"
+                ]
+            },
+            {
+                "text": "Истинно так!",
+                "sticker": "CAACAgIAAxkBAAIXnGIvfYRdIcTyJTkTYZHvELipDnikAAItGAACxTJJScGmFN-1mW2ZIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINwmIt-wmUV98I7vGafw4TwuADP8r-AAK4GgACblRwSb42IYhDSGzPIwQ"
+                ]
+            },
+            {
+                "text": "Я сделаю это!",
+                "sticker": "CAACAgIAAxkBAAIXnmIvfZS6_TTNOwgb4tIZaSnVuMTQAALuFQAC7-ZJSZnGGOyv1Sb9IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINxGIt-wxER94AAfDt1H-U4Jq6sVN_XgACuRoAAm5UcEnFrndcBKaJpCME"
+                ]
+            },
+            {
+                "text": "За Короля!",
+                "sticker": "CAACAgIAAxkBAAIXoGIvfZuaNap42yj-Q7fbw0Py_hpWAAJqFAACNNRISduyxBST7jPWIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINxmIt-w6Zv3JyW_IVgVcFPNBB2_EsAAK6GgACblRwSVeYP_lPvk6SIwQ"
+                ]
+            },
+            {
+                "text": "Трепещите враги!",
+                "sticker": "CAACAgIAAxkBAAIXomIvfabLjDkpX9_lphjYJwVdUdnEAAL4FgACnyBBSd_USA65XnoDIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINyGIt-xGPmz32IIYYaH-Y1m_aGboGAAK7GgACblRwSVzEUkE5qh4DIwQ"
+                ]
+            },
+            {
+                "text": "Смерть им!",
+                "sticker": "CAACAgIAAxkBAAIXpGIvfbEzNiGFZDqyjjK8Jv_Q5i8XAAKdFwACLHtJSdepzHEKybCYIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAINymIt-xNdB9Wrs02r2bTHoUhbi6H8AAK8GgACblRwSZWVZp9HAAHGMSME"
+                ]
+            }
+        ]
+    },
+    {
+        "MortarTeam": [
+            {
+                "text": "Прикажете открыть огонь?",
+                "sticker": "CAACAgIAAxkBAAIXtGIvfhN0FhGWPcLvTgizm5f-xkBxAAK8FgACfP5ISfBY3ql1snj8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN3GIt-yef-lAPVXVUAAFTlhL6S9kBigACxhoAAm5UcElRlNssKt9y6yME"
+                ]
+            },
+            {
+                "text": "Ну что ж, приказывайте",
+                "sticker": "CAACAgIAAxkBAAIXtmIvfh3ekdcqWII3SKJiczkUalkLAAIJGAACRbhJSbtW1FI6QYJtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN8mIt-0EJZd-QeyZXXSbLFbvZt7ELAALRGgACblRwSVmP2c4AAT9NqSME"
+                ]
+            },
+            {
+                "text": "Укажите цель!",
+                "sticker": "CAACAgIAAxkBAAIXzGIvhgI9DtXlZjexNQvGWPyp5zpZAAIRGwACVLZISQw9vw9MIqgOIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOAAFiLftVyByrT7Cs8_DSVzG39TVpLgAC2BoAAm5UcElC8LmNlGjZziME"
+                ]
+            },
+            {
+                "text": "Здравия желаю",
+                "sticker": "CAACAgIAAxkBAAIX1mIvhkS-ScwqL9WAgI2Gl0mJ5SIkAAKNFwAC47dBSbeSOH7dLW9QIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOAmIt-1fcgmr1DWZvStfvEQFjpWwpAALaGgACblRwSe3d7hMrt8GzIwQ"
+                ]
+            },
+            {
+                "text": "Я иду! --- Я тоже",
+                "sticker": "CAACAgIAAxkBAAIX2GIvhmhiKHVRXUgcWK4PIZI-1xCRAAKVGQAC1zVISdNliJ1eDZmPIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOBGIt-1gxtrO5zcnFMSxqIHHLUb5GAALbGgACblRwSafmduIiX6KfIwQ"
+                ]
+            },
+            {
+                "text": "Давай пошевеливайся! --- Ух...",
+                "sticker": "CAACAgIAAxkBAAIX2mIvhmmVVgQ4uKNMTHA_zuimE3lkAAL6FwACC-xISTzc_3pEtTC3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOBmIt-1vP6qc62oIAAScKXxKN_aktuwAC3BoAAm5UcEnm2loHzTj5SiME"
+                ]
+            },
+            {
+                "text": "Хороший ход! --- Истинно так",
+                "sticker": "CAACAgIAAxkBAAIX3GIvhmq-YM_3jip-I9rC0tH37oPuAAJ9GAACdoRJSZhSJrFi7sVAIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOCGIt-13KLj1nvUzcB3IyZHMI0NtiAALdGgACblRwSf1sR3veawU2IwQ"
+                ]
+            },
+            {
+                "text": "Можешь быстрее? --- Иду... иду...",
+                "sticker": "CAACAgIAAxkBAAIX3mIvhoOY4gAB81nRSCU21zGDw0-5IAACJhQAAmcySUnnTO0UQbbnzSME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOCmIt-2DpuvgcPqaYi9mh_TazwRa5AALeGgACblRwSYqZDBT8oUSJIwQ"
+                ]
+            },
+            {
+                "text": "Мы уже идём!",
+                "sticker": "CAACAgIAAxkBAAIX4GIvhoU8_1whuLlpOyEqKmkgx4TQAAIeGgACvwlJScA8A0poscxHIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIODGIt-2Lq6DFmmv3vVUeTU9anYHbSAALfGgACblRwSTwJCSTinlrDIwQ"
+                ]
+            },
+            {
+                "text": "Выходим",
+                "sticker": "CAACAgIAAxkBAAIX4mIvhoZR0S_t3XxKx5w1uVRvkgsVAAJBGAAC4mVISWo3CZmKkAX5IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN3mIt-ykF5CptoMP2FD3hPuKlzw_JAALHGgACblRwSa1PifCmAWPZIwQ"
+                ]
+            },
+            {
+                "text": "Считай, что мы уже победили",
+                "sticker": "CAACAgIAAxkBAAIXuGIvfieE8yEge4EDGvKJzxFxZQaxAAK_GAACxoxISZ83HFdCJLtvIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN4GIt-ytYcF3CdjEKp6FdYgedNC5pAALIGgACblRwSc8j8EHGbMp6IwQ"
+                ]
+            },
+            {
+                "text": "Хорошо смеётся тот, у кого большая пушка",
+                "sticker": "CAACAgIAAxkBAAIXumIvfjIU8O6l86oHNj-sHNv3ekoKAALJGAAC-IdISU3iF6HFGgABKSME",
+                "voice": [
+                    "AwACAgIAAxkBAAIN4mIt-y0aKUIjszEfc_TlZ3G_3fSaAALJGgACblRwSWbe-NDzVXNSIwQ"
+                ]
+            },
+            {
+                "text": "Им конец! --- Ага",
+                "sticker": "CAACAgIAAxkBAAIXvGIvfjz6Q7RjrZ_mATHUmKvmJbT3AAJiFAACyV5ISZiUKygBQ8OXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN5GIt-y_7R0KeKVIcd6Uqq7OFTXVsAALKGgACblRwSVNclJyCj1JiIwQ"
+                ]
+            },
+            {
+                "text": "Эй ты! Лови!",
+                "sticker": "CAACAgIAAxkBAAIXvmIvfj8MRLljjT-7WXXPThc2K0UmAAIUHAAC6rRISb7Y0MFEK5G_IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN5mIt-zIEKpasKs8aNruEuWv9Ga1RAALLGgACblRwSccLHvz47y7RIwQ"
+                ]
+            },
+            {
+                "text": "Лови ядро!",
+                "sticker": "CAACAgIAAxkBAAIXwGIvflAW2nfR4X6bQFwMxRFYiuh_AAJDFwACdEFJSbKZKPNrPHVJIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN6GIt-zSyBIibStJlUucAAXzpB-78BAACzBoAAm5UcElkAAGKqPFHo0kjBA"
+                ]
+            },
+            {
+                "text": "Ты, я и мортиры --- Вот и всё, что нужно для победы",
+                "sticker": "CAACAgIAAxkBAAIXwmIvflHRk6KCLzaBXFTcqJjewFjOAAJyHgACsFtISTLDsJY1yU2OIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN6mIt-za9AVXNcDhntb2InLpOAgzDAALNGgACblRwSWCNVNCrqotlIwQ"
+                ]
+            },
+            {
+                "text": "Если б не мы с тобой... --- Ничего бы не вышло",
+                "sticker": "CAACAgIAAxkBAAIXxGIvfmIUh3RqM3SSJChJI1A7wTgYAAJGGQACJodJSQbTkYqKqiAuIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN7GIt-zl-n5gJ1Y2KeJtxiB-IRMnmAALOGgACblRwSS0Owp4u6E4eIwQ"
+                ]
+            },
+            {
+                "text": "Мы должны разгромить гномов! --- Дак мы и есть гномы...",
+                "sticker": "CAACAgIAAxkBAAIXxmIvhef-86X1TLE4uGaQpQk8TDtWAAIIGAACSYZISRMeH_pZe6wzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN7mIt-zuQXAMZhbHLPtXEIBDPnRuwAALPGgACblRwSS8wHd5Y3CN4IwQ"
+                ]
+            },
+            {
+                "text": "Батарея! --- ОГОНЬ!!!",
+                "sticker": "CAACAgIAAxkBAAIXyGIvhfTzFynYg70_haGG5cwOfWrZAAKdGAAC8FNJSQb5E4CzyZorIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN8GIt-z58v868bEpcDe0CW1d119vmAALQGgACblRwSYZeenMF1iaKIwQ"
+                ]
+            },
+            {
+                "text": "Прицел - 15. Трубка - 120! --- Бац-бац и мимо!",
+                "sticker": "CAACAgIAAxkBAAIXymIvhgGm6OtS8aeZZwkQvoJO1eOvAAIwFAACCJxJSeMki6LRPsH1IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN9GIt-0NzVQ6iKFKcpJCzcTnCzR4-AALSGgACblRwSR9BUXvgx9EkIwQ"
+                ]
+            },
+            {
+                "text": "Скажи-ка, дядя, ведь не даром --- Ну, конечно, не даром!",
+                "sticker": "CAACAgIAAxkBAAIXzmIvhgP7TFVPMAw-CwdYUkJMAoE5AALRFQACFxpJSb5H2ITBIc14IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN9mIt-0cgUGG87yJkGnxsoautIzngAALTGgACblRwSbBJXozwMFZLIwQ"
+                ]
+            },
+            {
+                "text": "Дед, а как было во втором Варкрафте?",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIN-GIt-0oxAm0BLTjhutD3leQ8-PFJAALUGgACblRwSTPu0Ba85LJGIwQ"
+                ]
+            },
+            {
+                "text": "Неистов и упрям, гори, запал, гори!",
+                "sticker": "CAACAgIAAxkBAAIX0GIvhjcth94IUIXtbl3o_jLiYVPTAAJoFwACBddASYWYMjDUJJH4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN-mIt-01OvazglEXLqUdJdmGnf_6sAALVGgACblRwSRvtbuJbFmsWIwQ"
+                ]
+            },
+            {
+                "text": "Получай, сволочь!",
+                "sticker": "CAACAgIAAxkBAAIX0mIvhkKSCy92b4GsfKzigQJ11oGvAAKKFwAC7h1JSdnNUA6UcoKHIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN_GIt-1DmNOcSMdRwl5HegZVWxIP2AALWGgACblRwSSO_z_UqCXYIIwQ"
+                ]
+            },
+            {
+                "text": "Орудие к бою!",
+                "sticker": "CAACAgIAAxkBAAIX1GIvhkO61sj2Ofje_7DW8aZrh7Q3AAKIFwACPs1JSc7AVJuZP_6PIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIN_mIt-1Mtf957DFSwxMC1GxbxBy2dAALXGgACblRwSVr6DlUnpMpmIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "MountainKing": [
+            {
+                "text": "Настоящая война будет завтра с бодуна",
+                "sticker": "CAACAgIAAxkBAAIX5GIvhrH3QyVkzlqXPHhRCuunq7CCAAKOEwACqa1JSRLwvWHHRiaNIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIODmIt-2Qdu0E09oEy7T6j7mwlZVFpAALgGgACblRwSRawSXr_2obvIwQ"
+                ]
+            },
+            {
+                "text": "Здесь есть хоть одна винная лавка?",
+                "sticker": "CAACAgIAAxkBAAIX5mIvhrodY0siPcjOUaiTFfkWxjDkAAKEFAACfUVBSWLgmrklprPPIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOJGIt-32OMI72ETSJjqfNhxOnAz4oAALsGgACblRwSZSM3p9PZz1ZIwQ"
+                ]
+            },
+            {
+                "text": "Я думаю, это надо обмыть ",
+                "sticker": "CAACAgIAAxkBAAIX_GIvhxma0bEf1x3zxtJon2Vhhv_fAAJ-FwACMzxASUKGPcuA1cJSIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOKmIt-4MknnpYKL-nCbOLPtlUSpDwAALvGgACblRwSYvA6vY8AAH0bCME"
+                ]
+            },
+            {
+                "text": "Как говорит наш любимый шеф --- За чужой счёт пьют и язвенники и трезвенники",
+                "sticker": "CAACAgIAAxkBAAIX_mIvhxq7wvBej7AqzYrlz2RHkiEGAAKBFgACm0VJSSYRWhHUwE6uIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOLGIt-4b3EelT_3SCC1wD57eK4xjxAALwGgACblRwSTeEep3xTFSXIwQ"
+                ]
+            },
+            {
+                "text": "Чем ты тут, чёрт возьми, занимаешься?",
+                "sticker": "CAACAgIAAxkBAAIYAAFiL4ctKdVWWpQ13pgn7m3n4yNO-AACsRgAAtbpSUmklDm3YJWG-SME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOLmIt-4gOGhX4tqln5S4rmDiRuXa8AALxGgACblRwSZEIcWWs76ySIwQ"
+                ]
+            },
+            {
+                "text": "Где тут кабак!?",
+                "sticker": "CAACAgIAAxkBAAIYAmIvhy0R1pcsIjKZQO8IlWYbvJe6AALbGAACXWlISasuLlvpUNhTIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOMGIt-4sv3gs1iQ5WUWpMYoZTUK4QAALyGgACblRwSfquVa_3r82oIwQ"
+                ]
+            },
+            {
+                "text": "Давай напьёмся",
+                "sticker": "CAACAgIAAxkBAAIYBGIvh0f6dE_FVn37TmAYAx6k_YBWAALDFQACxoZASTO5OycT7LH_IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOMmIt-4z8vZOdQbDB7H63Ays6TZfUAALzGgACblRwSZh9DHK9J2iBIwQ"
+                ]
+            },
+            {
+                "text": "Кто тут хочет подраться?",
+                "sticker": "CAACAgIAAxkBAAIYBmIvh0gcVU23GNthbxkcKAX6CbYNAAK1FwACjudISfxgmPODnPnUIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIONGIt-44qsWRKHM3_6ctnjDrFc_1FAAL0GgACblRwSSjIB0MG7wKKIwQ"
+                ]
+            },
+            {
+                "text": "За Кхас'Модан!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIONmIt-5DVJK3b3BSoCdvxTKxQGzVYAAL1GgACblRwSfMxToMlN439IwQ"
+                ]
+            },
+            {
+                "text": "Агааа..",
+                "sticker": "CAACAgIAAxkBAAIYCGIvh0lCWc5h5QWVhteKqnnGE3qvAAIdGwACUMRJSda_iQyOLkD7IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOEGIt-2azGVa04urfv2D_wqlsStTtAALhGgACblRwSXYQls6e-Uy7IwQ"
+                ]
+            },
+            {
+                "text": "Хм...",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIOEmIt-2ijeqPz0lD0Vo-WWebKyhyyAALiGgACblRwSd9c_kXUw9TbIwQ"
+                ]
+            },
+            {
+                "text": "Чем бы заняться?",
+                "sticker": "CAACAgIAAxkBAAIX6GIvhsnuU8Pe1NJVPmgv4MuxyY1XAAKSFgACcb9ISXvmgZH7MTeNIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOFGIt-2pNwCsL95txpgub4dKgWtHvAALjGgACblRwSSrF_LF6v-jSIwQ"
+                ]
+            },
+            {
+                "text": "Ты ещё не видел меня в бою",
+                "sticker": "CAACAgIAAxkBAAIX6mIvhspzDxhUlnMygIOptRSLhYGfAAKJGQAC3IJISbXn67eU0RVOIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOFmIt-2xz9xLurD3HHHTABZLlJRXWAALkGgACblRwSZi9OvzCyC75IwQ"
+                ]
+            },
+            {
+                "text": "Отлично",
+                "sticker": "CAACAgIAAxkBAAIX7GIvhtlz_TbPtwYgdEMf5OmlfmzCAAK-FQACc1FASUtxUn12w8CSIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOGGIt-27Umvt9phsN6DFF-_UUlhhkAALlGgACblRwSbVmJ3_L22FBIwQ"
+                ]
+            },
+            {
+                "text": "Приступаю немедленно",
+                "sticker": "CAACAgIAAxkBAAIX7mIvhtqwogG00k4u_debJtXjRhuzAAKAFAACA71ISdGaFIMQSkrtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOGmIt-29Bi7RRcwMblhXt2lCsYy_CAALmGgACblRwSS1idmM5T_MTIwQ"
+                ]
+            },
+            {
+                "text": "Расступись!",
+                "sticker": "CAACAgIAAxkBAAIX8GIvhuuTKgKfPoG1fJYm6MEgYdbmAAJYFwACqrBISXLYet1dT8ZXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOHGIt-3IQqiZSve1UqWfxF7T-lEMnAALnGgACblRwSXnG9Esz6IZ5IwQ"
+                ]
+            },
+            {
+                "text": "Дорогу!",
+                "sticker": "CAACAgIAAxkBAAIX8mIvhuxZ-rIKDbZVa_e1lLv5n-dYAAK0FAACLc9ASeb-qJrfuoCIIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOHmIt-3XeHMYG9alRhtWmfiExo4EQAALpGgACblRwSRo6dTFthEq1IwQ"
+                ]
+            },
+            {
+                "text": "К оружию!",
+                "sticker": "CAACAgIAAxkBAAIX9GIvhvjDaC0wo1Pc708wIV666QNZAALGFgACewpIScYhTfcijaIuIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOIGIt-3mHb1LEqOEcgnEnG9JFi71lAALqGgACblRwSZkpLg6jyEUiIwQ"
+                ]
+            },
+            {
+                "text": "Ну что? Не ждали?",
+                "sticker": "CAACAgIAAxkBAAIX9mIvhvkIO4StvTKlKH6XgR-xygU3AAIEFgAC915BScQsfhYgqvMXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOImIt-3tJOKN52SrAqwu-z4HoN8S0AALrGgACblRwSaeoEmytbHNUIwQ"
+                ]
+            },
+            {
+                "text": "Разнесу!",
+                "sticker": "CAACAgIAAxkBAAIX-GIvhwaqpxtXOvz8PUTY3jGBQf9pAAKqGAACuqFISTLkboddFUVlIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOJmIt-39XdMTWI141vwJt1N7fJgvWAALtGgACblRwSYAqJ85KeN0-IwQ"
+                ]
+            },
+            {
+                "text": "Ну всё...",
+                "sticker": "CAACAgIAAxkBAAIX-mIvhw7lw66rL7Rob2Fg6Dy2ThprAAJbFwACn25BSSJOXlzirgjcIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOKGIt-4EooUMeqzNmIk139Q_I4JEOAALuGgACblRwSWSyP2nmWXDjIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Paladin": [
+            {
+                "text": "Настал час молота!",
+                "sticker": "CAACAgIAAxkBAAIYCmIvh38yHkEMyYCh_n0FTscY4IGrAAJOFgACzMpJSdBsoNYlW3IzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOOGIt-5LdHKV19NPAflGaVziFfouJAAL2GgACblRwSbDXQc_1HXw1IwQ"
+                ]
+            },
+            {
+                "text": "Я бью два раза. Один по голове --- Другой по крышке гроба",
+                "sticker": "CAACAgIAAxkBAAIYDGIvh4ZHebnfxTGXkKL_qpIXboIkAAIgGQACKZJJSYWaZPTW0c9iIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOTmIt-7BDgGdQ_fjBgUCZmGWWOvPMAAIBGwACblRwSYoi9I1Xlsu8IwQ"
+                ]
+            },
+            {
+                "text": "Не оскверняй меня своим курсором!",
+                "sticker": "CAACAgIAAxkBAAIYIGIvh_FzwI9LIU0oze_giXCnzcy2AAJ3FgACG1NJSalRJ2U5hPhsIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOUGIt-7MgdhKWVrZnlq0b4XIqCYo_AAICGwACblRwSQXGDJhHu-pEIwQ"
+                ]
+            },
+            {
+                "text": "Кто не с нами, тот против нас!",
+                "sticker": "CAACAgIAAxkBAAIYImIvh_7P_R7xbqyrEPhhCuZbmvB8AAJcFQACbyNASfJ6aCc-jcTRIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOUmIt-7V-qntFUpQeS0MhEPqLQNjHAAIDGwACblRwSbE3YEsTvl3CIwQ"
+                ]
+            },
+            {
+                "text": "Гоблин в доспехах --- Консервы \"Завтрак дракона\"",
+                "sticker": "CAACAgIAAxkBAAIYJGIviAABGVPcsg7bJnL3V0T7AowQUQACeBMAAnHmSUlcj_HCWZUGIyME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOVGIt-7dqh6ZLCbZTtl-A6a2w6QK_AAIEGwACblRwSYeFswZvgR8lIwQ"
+                ]
+            },
+            {
+                "text": "Лучше меня не злить...",
+                "sticker": "CAACAgIAAxkBAAIYJmIviCJVxrvK8WSqCcSZ3U1EQ3IzAAJHFAACillISSzYo8pcsKjqIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOVmIt-7obQOwp83nBzt1kbdShmIEmAAIFGwACblRwSY9szJ1kU0d0IwQ"
+                ]
+            },
+            {
+                "text": "Мой молот укрепит вашу веру!",
+                "sticker": "CAACAgIAAxkBAAIYKGIviCTzCHngegPSKp6clIPrWYcAA7IXAAI3wkhJ744MmSZJa_QjBA",
+                "voice": [
+                    "AwACAgIAAxkBAAIOWGIt-7wDWXvDlGvV2CTBBaSevGKyAAIGGwACblRwSXDH19RF3zLSIwQ"
+                ]
+            },
+            {
+                "text": "Пусть сгинет тьма!",
+                "sticker": "CAACAgIAAxkBAAIYKmIviDM-CK6ekKuLZ7V8W2F8G0sEAAL9GQACpsFJSRvO6rPElHCQIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOWmIt-75otc2rL99Xat-QDxbY08zgAAIHGwACblRwSRDFTxETdYViIwQ"
+                ]
+            },
+            {
+                "text": "О чём вы просите меня?",
+                "sticker": "CAACAgIAAxkBAAIYLGIviDSAepW2r_ERfGriemwhJFChAALCFgACCYJJSezwOe9-mYJmIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOXGIt-8CTStFVlYO4B_z-Xqx9_2exAAIIGwACblRwSfJF3XuCSLPCIwQ"
+                ]
+            },
+            {
+                "text": "Мне не ведом страх",
+                "sticker": "CAACAgIAAxkBAAIYLmIviDQcXM4YQ3BpBLpJfpP_yOIOAAIsFgACoztJSWHTygg9mAOYIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOOmIt-5QKFbmRu2xDc6hu1-RpR40bAAL3GgACblRwSQdBuiWk5xoQIwQ"
+                ]
+            },
+            {
+                "text": "Моё сердце жаждит битвы",
+                "sticker": "CAACAgIAAxkBAAIYDmIvh4dqi_DxPoNVUmq00lFIbetpAAImFwAC3MJJSb6tYA62Btl7IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOPGIt-5YOWoyMH-rAEzurwMCpXaWuAAL4GgACblRwSfGXEHztcb6rIwQ"
+                ]
+            },
+            {
+                "text": "Внемлю ваши слова",
+                "sticker": "CAACAgIAAxkBAAIYEGIvh6OTp-rfeNo3ZQhe9GzOq2S7AALcHAACMWxJSbCMIP40yaDlIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOPmIt-5m9HGcFTLE0I1vE3OC83N6yAAL5GgACblRwSdpFL-KYlDcaIwQ"
+                ]
+            },
+            {
+                "text": "Как прикажете!",
+                "sticker": "CAACAgIAAxkBAAIYEmIvh6QOxCyMsaJr8F6NapazBhvzAALeFAACSyJJSbChvC21RSzWIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOQGIt-5vY5vspN20k_b4X9B04fk9LAAL6GgACblRwSY_4BrC2FWHKIwQ"
+                ]
+            },
+            {
+                "text": "Почту за честь",
+                "sticker": "CAACAgIAAxkBAAIYFGIvh7MFsZkal9jnXvk3ZtDd5iz3AAL4FgACqodJSerEKpTLPY9sIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOQmIt-562Fz9hlIq1ticElHyqWVp9AAL7GgACblRwScQ0c6q4BtdgIwQ"
+                ]
+            },
+            {
+                "text": "За веру и народ",
+                "sticker": "CAACAgIAAxkBAAIYFmIvh7T3FhOS1N8LIJiV3W3BU8MqAALTFwACvKlISTgHpPQxwjm3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIORGIt-6Frly_R72THj_RmVb2bQkNeAAL8GgACblRwSfrkHiXnmnTPIwQ"
+                ]
+            },
+            {
+                "text": "Будет исполнено!",
+                "sticker": "CAACAgIAAxkBAAIYGGIvh8hvu8EXxxUAAfXTl_gFFAiucQACPRQAAra2SEnaXVFTu1PYkSME",
+                "voice": [
+                    "AwACAgIAAxkBAAIORmIt-6ZpslV_oFlHD1yk6V0BBgABuQAC_RoAAm5UcEnJVVKfLm5s6CME"
+                ]
+            },
+            {
+                "text": "Да свершится правосудие!",
+                "sticker": "CAACAgIAAxkBAAIYGmIvh8l-PLmWLIbW4PRhSDBS4eG8AAJcFwACTGZISctSs56rz71QIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOSGIt-6ia3YSPzrsaFU8AASiRV_PNXAAC_hoAAm5UcEl7lyL-kud6rSME"
+                ]
+            },
+            {
+                "text": "Во имя света!",
+                "sticker": "CAACAgIAAxkBAAIYHGIvh9xeEEqFwygdCTs9rsLzhQWLAAJQFAACQ8ZBSeBMbP9g6M2aIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOSmIt-6tJ1MmyHa02MntKZPloVk6vAAL_GgACblRwSU81EcNCjNVAIwQ"
+                ]
+            },
+            {
+                "text": "Смерть неверным!",
+                "sticker": "CAACAgIAAxkBAAIYHmIvh97OMuJE86obzcZr4x1t5k07AAKvFAACgaRASdTiRff8ytSfIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOTGIt-62FatTwFlm68QUigswLaNjoAAMbAAJuVHBJqSNFwozKjCMjBA"
+                ]
+            }
+        ]
+    },
+    {
+        "Peasant": [
+            {
+                "text": "Ты чтоль король? --- А я за тебя не голосовал!",
+                "sticker": "CAACAgIAAxkBAAIYMGIviFGDS4X2BW0YuMu-TV8px04ZAAJ7FgAC5nJJSQABH8hKiMpaWiME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOXmIt-8KBPFjp-f6CBjBZA83xAW7zAAIJGwACblRwSeOC3O6rA3pGIwQ"
+                ]
+            },
+            {
+                "text": "Тебя бы так...",
+                "sticker": "CAACAgIAAxkBAAIYMmIviFnIGjMIjeY4L9MV256puWVjAAJTFgACKX5ISZobX_vJL-IZIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOcmIt-9pH1jIPndh2GILA9XCIYT4hAAITGwACblRwSTdAYz-A9tbqIwQ"
+                ]
+            },
+            {
+                "text": "Помогите! --- На меня давят!",
+                "sticker": "CAACAgIAAxkBAAIYRGIviJ2lqfFov2YUyaXS-s-rFcVoAAL_FAACbr5ISVg8HnDnGZYSIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOdGIt-9yJsjafuHt4jjfhwZRZ_htzAAIUGwACblRwSSdhz0K86dt4IwQ"
+                ]
+            },
+            {
+                "text": "Работа не волк. В лес не убежит",
+                "sticker": "CAACAgIAAxkBAAIYRmIviLtwa4KPhx6c1MNIC-UXh7jwAALbFQACjd5ISQMSmFIftJNyIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOdmIt-95hox2HKNkRE3VSacaLLm9eAAIVGwACblRwSWVO88EqD5AVIwQ"
+                ]
+            },
+            {
+                "text": "Мы поймали ведьму --- Можно мы её сожжём?",
+                "sticker": "CAACAgIAAxkBAAIYSGIviLykVHMCgMtK2ro2FHufm0yTAAK8FgACaQtASfH1YmsJWGkbIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOeGIt--DatIqqIAtLE8UsDgrW3jFAAAIWGwACblRwSREGeuj_mMO9IwQ"
+                ]
+            },
+            {
+                "text": "Я готов",
+                "sticker": "CAACAgIAAxkBAAIYSmIviMj0HfG8n2RDobmqcGSOKtb3AALQFQACWXZBSWDByW2V75YKIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOemIt--GvidFftatdi7or6_O-Kz5JAAIXGwACblRwSZntzb6u7VrOIwQ"
+                ]
+            },
+            {
+                "text": "ААААААА",
+                "sticker": "CAACAgIAAxkBAAIYTGIviMnLnUQseDirNmxOHvOULUTXAAKCFgAC0VRISf8AAYAy8CpWISME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOfGIt--OEfT8sLQABv46gwwsTxlT7pwACGBsAAm5UcEkbmuOzenAdPiME"
+                ]
+            },
+            {
+                "text": "Да, господин",
+                "sticker": "CAACAgIAAxkBAAIYTmIviMp6HJgE1NRixPkiYiasM9orAAIxFwACDq9ISezITLOR73umIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOfmIt--WylZYqH_TaTrWa10zACBLhAAIZGwACblRwSUUZzjBOPaS8IwQ"
+                ]
+            },
+            {
+                "text": "Чего?",
+                "sticker": "CAACAgIAAxkBAAIYUGIviODwvsK9pLid939AfZmVg9aYAALdFAACQutBSbIcwdDLNdjAIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOgGIt--e66Zx04hF8c74bplom3vssAAIaGwACblRwSTTlluoDvkoWIwQ"
+                ]
+            },
+            {
+                "text": "Опять работа?",
+                "sticker": "CAACAgIAAxkBAAIYUmIviOFcpZfL7JJO-JUPBy0e3ROSAAK9EwACrDRISZyYoebdGkOIIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOYGIt-8SJ5uHkVN7FLLjx50KLlH8sAAIKGwACblRwSVUk-LLcUaWsIwQ"
+                ]
+            },
+            {
+                "text": "Да",
+                "sticker": "CAACAgIAAxkBAAIYNGIviGKrHg_7WFcHhMLY7ee7supoAAKZFgACP4xISfH-P-wwWJmmIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOYmIt-8Uyt0u321U4cVrErUYR7j6-AAILGwACblRwSX9uZ2JfWe7oIwQ"
+                ]
+            },
+            {
+                "text": "Угу",
+                "sticker": "CAACAgIAAxkBAAIYNmIviGOQzE4zmZq34ixD5rZG0lgBAAK8GAACJVNISf6oz_q91CfCIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOZGIt-8g1evsY6FS9Dtt2lmjn3drWAAIMGwACblRwSQP2xs5CP5poIwQ"
+                ]
+            },
+            {
+                "text": "Хорошо",
+                "sticker": "CAACAgIAAxkBAAIYOGIviGTRwE0S_LmGg4wH3sbCHRwOAALqFQACJ9xIScgvRWBnIVe3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOZmIt-8rzBtYKGee6Dvrye0n-3A5iAAINGwACblRwSYIK04p1tpSQIwQ"
+                ]
+            },
+            {
+                "text": "Ну, я пошел",
+                "sticker": "CAACAgIAAxkBAAIYOmIviIMAAfhj4QgIrOuxRp1BntdQTAACyBUAAtmfSEmasDOoUwABdWcjBA",
+                "voice": [
+                    "AwACAgIAAxkBAAIOaGIt-8w2400wPyEjMVY1eNONfyAbAAIOGwACblRwSWyeLEUIL2FMIwQ"
+                ]
+            },
+            {
+                "text": "Прощайте",
+                "sticker": "CAACAgIAAxkBAAIYPGIviIT2u04BS_ocTRIKOf1xDXaIAAKeGwAC0CZISX9ItRwJiSahIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOamIt-9HMnwWJKrwHimgAAbVr6N9L5QACDxsAAm5UcEl4nRQp8YPOLSME"
+                ]
+            },
+            {
+                "text": "Вам меня не жалко?",
+                "sticker": "CAACAgIAAxkBAAIYPmIviIUj1D6Zz3F_K85gSu56YXGCAAJgGQACA9hBSfhzOj_HUAw2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIObGIt-9MYt8Kj1Vz0SZJeIM9I8VleAAIQGwACblRwSdq7IZrgsIBkIwQ"
+                ]
+            },
+            {
+                "text": "Придется драться...",
+                "sticker": "CAACAgIAAxkBAAIYQGIviJoK9kj-bpTcndz89fFJGkqfAAIoFgAC-oVJSf10aLJ75Wn7IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIObmIt-9Zenn1dH4v-xUUvEm2ubX99AAIRGwACblRwSfYIFnZRysKLIwQ"
+                ]
+            },
+            {
+                "text": "Ну вот. Меня убьют...",
+                "sticker": "CAACAgIAAxkBAAIYQmIviJs5Stqd1IYvy1Dib6K_2DIBAALyFwAC72FJSQuJyRmqEfK1IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOcGIt-9gwcqxuePRbup9T2gqGP7SZAAISGwACblRwSZ56KrCGsvz5IwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Phoenix": [
+            {
+                "text": "*ффф-ффф-ффф*",
+                "sticker": "CAACAgIAAxkBAAIYVGIviPjROwo_2pHyD3UAAXdMcsXtZgACGBgAAu8lSUm3tOXB2GZhPCME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOgmIt--m_I0F6IwWtnbJcDrXubsJlAAIbGwACblRwSXEzIlzEPzfRIwQ",
+                    "AwACAgIAAxkBAAIOhGIt--v9X1dwxWycNUNxJbLEBo1vAAIcGwACblRwSUWSLfPNwHEiIwQ",
+                    "AwACAgIAAxkBAAIOhmIt--y9ZKFYJIScJHoJEVMx5VVwAAIdGwACblRwSfwC5xP__dovIwQ",
+                    "AwACAgIAAxkBAAIOiGIt--4gZi7ojJAftgnhfpV5o91RAAIeGwACblRwSZAY2Rm4m4tYIwQ",
+                    "AwACAgIAAxkBAAIOimIt-_BgzG5j0O0V6V02mRMPmzFFAAIfGwACblRwSV7Cgu_PcO8xIwQ",
+                    "AwACAgIAAxkBAAIOjGIt-_Ip47fnFtC2OPK3PSHzPrtuAAIgGwACblRwSZAnjF4r1prxIwQ",
+                    "AwACAgIAAxkBAAIOjmIt-_Q3544VhiZK9c8ZDfJ3EpGAAAIhGwACblRwSY7Ld10iwNCUIwQ",
+                    "AwACAgIAAxkBAAIOkGIt-_YJ11xx46tO_cehvGoGp2-2AAIiGwACblRwSSO76vf0LlNmIwQ",
+                    "AwACAgIAAxkBAAIOkmIt-_gZYJZ0Y5tysssRnCZjoLrJAAIjGwACblRwSZ2zRuaembPUIwQ",
+                    "AwACAgIAAxkBAAIOlGIt-_qQlIvUQQbCoo_MWratm6NyAAIkGwACblRwSYhGxjxzebo1IwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Priest": [
+            {
+                "text": "Тампон. Скальпель. Волшебную палочку. --- Фуф, спирт.",
+                "sticker": "CAACAgIAAxkBAAIYVmIviQU9D7IDS4wf7szgdC4p49HdAAKyFgACkTRJST_f959I6h_4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOlmIt-_wpfhKpzGdYgDyJArMr9v-PAAIlGwACblRwSel0x8L5xJgmIwQ"
+                ]
+            },
+            {
+                "text": "Вскрытие показало - больной спал",
+                "sticker": "CAACAgIAAxkBAAIYWGIviQ190YcrBxD1V1Xj3f4aZBX_AAL3FQACGFNJSYlspgVaf6YzIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOrGIt_BIm4O_5TQAB3g2xHoTZAVGlBQACMBsAAm5UcEnCIpmbh28HiSME"
+                ]
+            },
+            {
+                "text": "Разряд!",
+                "sticker": "CAACAgIAAxkBAAIYaGIviVySTih5fs1h6tRsUROGxFxbAAImFAACdb5JSTLOYCb9Pvb3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOrmIt_BQXu7Mqu7M7NhTEfQuqkMX-AAIxGwACblRwSUnQrxtQCkRnIwQ"
+                ]
+            },
+            {
+                "text": "Ну что лечить? --- Или пусть живёт?",
+                "sticker": "CAACAgIAAxkBAAIYamIviV1dt-SHH7FkFASEXAffTybuAAJUFgACvVlJST9-27g0TG69IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOsGIt_BccIuUjbkhpxCyRbyopP6GMAAIyGwACblRwSUCx4R7BupEtIwQ"
+                ]
+            },
+            {
+                "text": "Время лечит, но жрец быстрее",
+                "sticker": "CAACAgIAAxkBAAIYbGIviV4EnM2IpHU5_2mUReP6ArRkAALFEwACVQdISTvjTIEI6Q0OIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOsmIt_BkyhFXdt3sKilqjhYhsVDCiAAIzGwACblRwSUkTP8kgic4wIwQ"
+                ]
+            },
+            {
+                "text": "Лечебные чары. Побочные эффекты: ...",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIOtGIt_BznQqO1tGS0mGG0wWGqVLt0AAI0GwACblRwSYQXlPbc5oC0IwQ"
+                ]
+            },
+            {
+                "text": "Я несу исцеление",
+                "sticker": "CAACAgIAAxkBAAIYbmIviXpLowMUVzXw62rU0MZg_ND3AAIWHgACmptISQf3nay3CYbhIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOtmIt_B8juQYhgoqgMuXWHLZ6k_q_AAI1GwACblRwSV4vpKQ9XQpAIwQ"
+                ]
+            },
+            {
+                "text": "За Кель'Талас!",
+                "sticker": "",
+                "voice": [
+                    "AwACAgIAAxkBAAIOuGIt_CGXT-_bGVpT403R1CYKZosgAAI2GwACblRwSWSB64gO_q3QIwQ"
+                ]
+            },
+            {
+                "text": "На что жалуетесь?",
+                "sticker": "CAACAgIAAxkBAAIYcGIviXueA5zirTkIrjVjR4KsJTPEAAIHFgACkhRJSVdR-C_7Xpq5IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOumIt_CRFgy7FfYn1nQ4UJ0cAAY00oAACOBsAAm5UcEmtVTiTzHGTpCME"
+                ]
+            },
+            {
+                "text": "Да, мой друг?",
+                "sticker": "CAACAgIAAxkBAAIYcmIviZl25nmwtoLwRYkCHC2vPtCdAAI0FwACL3VISW8kLziIDcC1IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOmGIt-_6IZJ3GxbI_diM7kYeIbQMuAAImGwACblRwSR9MBAatpkAgIwQ"
+                ]
+            },
+            {
+                "text": "Чем могу помочь?",
+                "sticker": "CAACAgIAAxkBAAIYdGIviZpKsIgnK-Kt6TwBEOMx1vuhAALRFgACthBISQWP8hD9nOfbIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOmmIt_AABBviruuLIb8IH9AE3bX2WTgACJxsAAm5UcElowZUfsAJAqyME"
+                ]
+            },
+            {
+                "text": "Кто-нибудь ранен?",
+                "sticker": "CAACAgIAAxkBAAIYdmIviaWXYkZKtBDiLrgUZhhdxteWAAK7GgAC-2RASfsoUj44FuJKIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOnGIt_AIG-3G6ptQLh28WJkGZ6CAaAAIoGwACblRwSRMwpStGPzdIIwQ"
+                ]
+            },
+            {
+                "text": "Повинуюсь",
+                "sticker": "CAACAgIAAxkBAAIYWmIviRYWek641IFzNVdosNgrEOImAAIXGQACQYBASYt7O2lQnPrOIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOnmIt_ASHa-cp8QABeIRTUMZ6Sjn6uAACKRsAAm5UcEk9t5p6YJ026iME"
+                ]
+            },
+            {
+                "text": "Да будет так",
+                "sticker": "CAACAgIAAxkBAAIYXGIviSRT49y5JyCzO1i85y-gZRYPAAJtFwACKepJSbnKsfT1guQtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOoGIt_AaMkiF2TStXpToGxsEmL2CvAAIqGwACblRwScBv7HOcFDcQIwQ"
+                ]
+            },
+            {
+                "text": "Ваша воля",
+                "sticker": "CAACAgIAAxkBAAIYXmIviSXhzWz5f1No0QQGudLco47CAAKMFgAC2X9JSbbS9KtHP1prIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOomIt_AiTLDi_6h-EHom9zudvVZaTAAIrGwACblRwSZSDU2-iaHszIwQ"
+                ]
+            },
+            {
+                "text": "Приступаю",
+                "sticker": "CAACAgIAAxkBAAIYYGIviSYK5x3tXWCujBAsizB6x9VyAAKXFgACaptJSQknc4jQ_89HIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOpGIt_ArXG4iLJU7_ws-AjvNRPMOrAAIsGwACblRwSbXRenEgoqV6IwQ"
+                ]
+            },
+            {
+                "text": "Мерзкие отродья!",
+                "sticker": "CAACAgIAAxkBAAIYYmIviUCeHS6ySnHobuJhueEM9-vyAAL0FQAClLlJSTU4gDY_I7JtIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOpmIt_AxvuCg-esyadZpItKPYNnqAAAItGwACblRwSTtVGvbzAAFvtCME"
+                ]
+            },
+            {
+                "text": "Я в гневе!",
+                "sticker": "CAACAgIAAxkBAAIYZGIviUHioGni26sL00JaAfRT3PvSAAKAFAACpypISY-NmlSAvMo8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOqGIt_A6LNtYbFjv7ZSSrhDC6Hr84AAIuGwACblRwScEfKA66MxZkIwQ"
+                ]
+            },
+            {
+                "text": "Свет испепелит тебя!",
+                "sticker": "CAACAgIAAxkBAAIYZmIviVZoDrxI7iGd16gp8Fqe1Nn2AALLEwAC4PhISRyiUojXRwU7IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOqmIt_BDiYuDp8d2f5MNiqFH7_LyCAAIvGwACblRwSU9FJY-zv_taIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "RiffleMan": [
+            {
+                "text": "Мушкет и жену не дам никому",
+                "sticker": "CAACAgIAAxkBAAIYeGIvibSm1vwByD_buzdbE2hy3rxkAAJ4GAACH6tISZC8vWuMO_QgIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOvGIt_CZcTn5Ct2GrDu8OOOuAwqJTAAI5GwACblRwSXdrLWEMSE_LIwQ"
+                ]
+            },
+            {
+                "text": "Хороший... Плохой... --- Главное у кого ружье",
+                "sticker": "CAACAgIAAxkBAAIYemIvicGmsDyCTRg-dy5tlT0YWY-BAAIEFQACQ4xJSUURRM-tYgL2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO0mIt_D1JC9_fyhy2eL4sy4UioeacAAJEGwACblRwSeP6OcDaadTzIwQ"
+                ]
+            },
+            {
+                "text": "Ну, наливай",
+                "sticker": "CAACAgIAAxkBAAIYkGIviiKUZS0XC2gAAcsqRqMMvo_VfwACcBcAAlP5SEkm14h0VXBvlCME",
+                "voice": [
+                    "AwACAgIAAxkBAAIO2mIt_EdRPYs4K_SO_POrcgyNy86SAAJIGwACblRwSZDDSVgocVKfIwQ"
+                ]
+            },
+            {
+                "text": "Не могу стрелять на трезвую голову",
+                "sticker": "CAACAgIAAxkBAAIYlmIvilT8HguJ3R58i0sofy3TapNbAAIkGQACgB9JSWBOClwfHWGvIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO3GIt_EpU0tTpfxr9z2nrvO-4a_uqAAJJGwACblRwSVEqN77nFtcSIwQ"
+                ]
+            },
+            {
+                "text": "Кто с мечом к нам придет --- Тех проще застрелить",
+                "sticker": "CAACAgIAAxkBAAIYmGIvilUoY6U6nLKOPj3vZtLNY7VRAALJGAACZKxBSfCRAScgD-jFIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO3mIt_Ewy95a3YVh4FpAk71s_USynAAJKGwACblRwSRYxWGtdRcIZIwQ"
+                ]
+            },
+            {
+                "text": "Не ружья убивают людей --- Их убиваю я",
+                "sticker": "CAACAgIAAxkBAAIYmmIvimUorzBlVnl7n8tK5n3tvLupAAI_GQACYuBJSYpKO9VW8iSrIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO4GIt_E6J5H8BIyetUdxoc73JYIFUAAJLGwACblRwST6dVzknZeCBIwQ"
+                ]
+            },
+            {
+                "text": "Хорошо смеётся тот, кто стреляет первым",
+                "sticker": "CAACAgIAAxkBAAIYnGIvimYWjsmgfKwDKknnznwepGJuAAKPGAAClYxJSbAkJ20d8JaMIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO4mIt_FBYW67xYZ_-zg6UuhxmZ3hUAAJMGwACblRwSaPrD5_-_g8kIwQ"
+                ]
+            },
+            {
+                "text": "Мы хорошие ребята --- жаль патронов маловато",
+                "sticker": "CAACAgIAAxkBAAIYnmIvinJ_vxzPqLR4vWAqxjWjyaPDAAIJFQAC5RtISfvtcygU0wbjIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO5GIt_FJ_MikKffDqj8V2yU65_JQWAAJNGwACblRwSf_KUOyuK-0ZIwQ"
+                ]
+            },
+            {
+                "text": "К бою готов!",
+                "sticker": "CAACAgIAAxkBAAIYoGIvinQqRP_0XNJ2HPyaBBd8xxmKAAJrFwACcjBJSQIKEfTf90bWIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO5mIt_FT4bVErVGl56rNgz5bhe56HAAJOGwACblRwSSBjZfOg9j2jIwQ"
+                ]
+            },
+            {
+                "text": "За железные горы!",
+                "sticker": "CAACAgIAAxkBAAIYomIvinWZO37pSEQxNswJwyVWNjpNAALoFwACONVISUf-Lp6vFQ2AIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOvmIt_CnrrtEXFXNVCwpyNvmyETOgAAI6GwACblRwSUZppFN_8bWMIwQ"
+                ]
+            },
+            {
+                "text": "Да, сэр",
+                "sticker": "CAACAgIAAxkBAAIYfGIvic_BxxB5lOkyxzV-fr4IVA8IAAKyEwACh-5ISSnp9yYWL1_tIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOwGIt_CsdqW1RVrQ3MEWAeVW0FhNhAAI7GwACblRwSYBa3M32pihqIwQ"
+                ]
+            },
+            {
+                "text": "Куда стрелять?",
+                "sticker": "CAACAgIAAxkBAAIYfmIvidCNOGwtZJQQ6r_dkl2XwOb1AAKKFwAC9a5JSTs44U6OX96SIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOwmIt_C1JocwxR1dAvp5CctvHGJejAAI8GwACblRwSQSiIF2uvRW7IwQ"
+                ]
+            },
+            {
+                "text": "Дайте цель",
+                "sticker": "CAACAgIAAxkBAAIYgGIvidEvVTreot3tgNz62SJPNnLRAAL8GAACg-tISVu06kTECY_oIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOxGIt_C_jdLB1i53nnDhQLzR4lPjNAAI9GwACblRwSQSJCFTzZK9vIwQ"
+                ]
+            },
+            {
+                "text": "Что прикажете?",
+                "sticker": "CAACAgIAAxkBAAIYgmIvieSxROfe8qr192w9Qy7OKNPYAAIHGAAC93FJSZBM0yGqWPoeIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOxmIt_DGrLZ6wgkvlNeq2gC2OkeIRAAI-GwACblRwSYamCPh43RKYIwQ"
+                ]
+            },
+            {
+                "text": "Хорошо",
+                "sticker": "CAACAgIAAxkBAAIYhGIvieU4ZUKBG6IGNhnwDTp6dqv7AALxGwACeoJJSUR1wdWmPEnpIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOyGIt_DRNGSaQHr1ZN7xOZtmPcVGQAAI_GwACblRwSVwYRQNurBdRIwQ"
+                ]
+            },
+            {
+                "text": "Сделаю",
+                "sticker": "CAACAgIAAxkBAAIYhmIvieadMGuFKluBsEJ18tda9jiOAAKhFwACKjBISWyRB-uOetqfIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOymIt_DY4YqKFFQL6bLxejV9hF84PAAJAGwACblRwSZRmdXsbyqyLIwQ"
+                ]
+            },
+            {
+                "text": "Иду",
+                "sticker": "CAACAgIAAxkBAAIYiGIvif8z2lvjlkdgfr93QwEVSe8AAyAVAALRR0hJWpmgXQlqyrgjBA",
+                "voice": [
+                    "AwACAgIAAxkBAAIOzGIt_DdPXsLbfj_BY2wVcUNxIJdUAAJBGwACblRwSVZb0h_Za0VfIwQ"
+                ]
+            },
+            {
+                "text": "Уже в пути",
+                "sticker": "CAACAgIAAxkBAAIYimIvigABn62DoAseGtDsOCuOKG2t0wACGhQAAkyOSEnPgFbnc-eylyME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOzmIt_Dkq9CiAg6qrXJsHj3dFqsCrAAJCGwACblRwSSpHfMPV4hkXIwQ"
+                ]
+            },
+            {
+                "text": "Ааааагонь!",
+                "sticker": "CAACAgIAAxkBAAIYjGIvihhan_h2HIWGh49PRxWd7sM-AAISGgACVedJSTG-K1XuNIImIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO0GIt_DtOeEelAAGQei1dzU-iBjITRgACQxsAAm5UcEm98F9Iqh22uCME"
+                ]
+            },
+            {
+                "text": "В цель!",
+                "sticker": "CAACAgIAAxkBAAIYjmIvihk_ULX5zQIi2b0GIlMDcQ5yAAK6GwACIkBBSZihAAFbLRVXSiME",
+                "voice": [
+                    "AwACAgIAAxkBAAIO1GIt_EAHJEuYATWyIOpnzSDuvn7fAAJFGwACblRwSaqN4Uk6A2_jIwQ"
+                ]
+            },
+            {
+                "text": "Получай!",
+                "sticker": "CAACAgIAAxkBAAIYkmIvijtABGFMmM0TLep2jr60k9-cAAJsFgACuIlJSfI-3aW6aMeyIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO1mIt_EIyiL_AOYe_zxCFchseTu4EAAJGGwACblRwSXrSLYUt4PXgIwQ"
+                ]
+            },
+            {
+                "text": "Бью без промаха!",
+                "sticker": "CAACAgIAAxkBAAIYlGIvijxPUTEKNC68_L8zct3oOJpbAAKaFQACHzVBSbCEGV4NljQwIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO2GIt_EWf-wbGqK5HoFIwZlLqnp8GAAJHGwACblRwScBGVKc8cfYDIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Sorccess": [
+            {
+                "text": "Ну-ка, милый, щёлкни ещё разочек",
+                "sticker": "CAACAgIAAxkBAAIYpGIvipOKJj5fZ9noLdtQ8lcngXY8AALEFwACBRxJSTJszJ0nSrw0IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO6GIt_FeCamP2tzwt9Hw4HGBDNWcSAAJPGwACblRwSS7a8kZKMAIwIwQ"
+                ]
+            },
+            {
+                "text": "Может быть тебе лучше почитать документацию?",
+                "sticker": "CAACAgIAAxkBAAIYpmIviqTzteEkip_svthF3whXvVqkAAKpFwACb9RJSQ5SUSiS_kyKIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO_mIt_G9dhs5VzAUsm6szWaf5We64AAJaGwACblRwSXt_m7sSImZuIwQ"
+                ]
+            },
+            {
+                "text": "Кажется я не накладывала на тебя чары слабоумия",
+                "sticker": "CAACAgIAAxkBAAIYvGIviwjDApc6_20zIjcvLUx20m0DAALEGwACgklIScGmIMR0dEq8IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPAmIt_HOGC54SVlltpGV5E35h_ewJAAJcGwACblRwSQYd1MogeH7vIwQ"
+                ]
+            },
+            {
+                "text": "Развлекаемся?",
+                "sticker": "CAACAgIAAxkBAAIYvmIvixrJRL6Qjr7XQYpHjvROFuahAALBGAACUJxJSR08RUXW5fbgIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPBGIt_HSiajkQAZHNAj5KxTrVmO3XAAJdGwACblRwSd-2IosOzqg_IwQ"
+                ]
+            },
+            {
+                "text": "Встретимся в чате на Battle.net",
+                "sticker": "CAACAgIAAxkBAAIYwGIvixwbfeAY2paaun9dofVCiRvSAAKsFwACfJlISdPFBn63QtvXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPBmIt_Hf2b2lN2NcqyMA5C4Q7eG2XAAJeGwACblRwSdtVA0a_1zrIIwQ"
+                ]
+            },
+            {
+                "text": "Хочешь устроить конец света? --- Нажми кнопку Reset",
+                "sticker": "CAACAgIAAxkBAAIYwmIviyw66lH3OeLApVqvdfyhVpvqAAL3FwACgjFJSannka9KSWfFIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPCGIt_Hm8F2GLPwXe0ka2d6tja3ziAAJfGwACblRwSYmzzXv6DUVSIwQ"
+                ]
+            },
+            {
+                "text": "Мне подвластна магия",
+                "sticker": "CAACAgIAAxkBAAIYxGIviy0RHK4ukd3Xlavm35g-tcKjAAK4FQACZkRBSUSg7nFpxzx4IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPCmIt_HtzKVIAAaYzPHmhBD80Y3I2tAACYBsAAm5UcEmaWg1lzk6sJCME"
+                ]
+            },
+            {
+                "text": "За альянс!",
+                "sticker": "CAACAgIAAxkBAAIYxmIvizonamXDYSCp8omlw5amaN3yAAIBGQACqX1ISZZD2Wizu5z3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPDGIt_H2bzctzt9jJ6CclOL0bRC-0AAJhGwACblRwSXjiFJbEPfoeIwQ"
+                ]
+            },
+            {
+                "text": "Тебе нужна моя помощь?",
+                "sticker": "CAACAgIAAxkBAAIYyGIvi0tZOutkrw_5peLAaYNHqMkxAAKqFwACV8RASQEUUkrY4afoIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPDmIt_H-dC5DpNSx5IEyQQ_JLwvkMAAJiGwACblRwSWpYZ8yWilVIIwQ"
+                ]
+            },
+            {
+                "text": "В чём проблема?",
+                "sticker": "CAACAgIAAxkBAAIYymIvi0yY4Wpz_Es6OZ4TuJg-Elc5AAK7GAACChhISdlPxBYLiXvxIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO6mIt_FkHoVlMuHpEhSm6N-XtfooxAAJQGwACblRwSW6Z2ZFgQlM2IwQ"
+                ]
+            },
+            {
+                "text": "Чем я могу помочь?",
+                "sticker": "CAACAgIAAxkBAAIYqGIviq37lO6GuCKtTY-LcxAPa01gAAJDGQACFzZISQY2fHJ3JIc2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO7GIt_FpKQuqpsm7k6_sYzuUKTLG7AAJRGwACblRwSTm8n2v65Fq7IwQ"
+                ]
+            },
+            {
+                "text": "Чего хочешь, зайка?",
+                "sticker": "CAACAgIAAxkBAAIYqmIviq5jLH6hru2qL_miZ3WtHmi0AAI4FwACS8VISQpKPiP9UxeTIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO7mIt_F0UsWek3dnO3P98AAG7QE_iSwACUhsAAm5UcEnjgITO2YiIbSME"
+                ]
+            },
+            {
+                "text": "Не так быстро, котик",
+                "sticker": "CAACAgIAAxkBAAIYrGIvirBD686lrkRci1-bmDSmkpIIAAJEFgAC35RISVbHMfm9MMH6IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO8GIt_F5eOyOqbTESDJ4D95AMRm2UAAJTGwACblRwScGEb6yb6EdXIwQ"
+                ]
+            },
+            {
+                "text": "Ну если ты настаиваешь...",
+                "sticker": "CAACAgIAAxkBAAIYrmIvis-f441Gw5bbQIJe9YDH-cfjAAJ-FAACwRRJSTy1Yt1OFGoRIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO8mIt_GDpQGKHCporBKQWY4XmytVKAAJUGwACblRwScDrUn6Qa8dDIwQ"
+                ]
+            },
+            {
+                "text": "Неплохая мысль",
+                "sticker": "CAACAgIAAxkBAAIYsGIvis-w81bTFFthwdgBXGQi8mcWAALOGQAC4ghISbfspkpDYcpxIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO9GIt_GIZJfJ41v88tr61tjjqfZCjAAJVGwACblRwSVf8tRz-bqfsIwQ"
+                ]
+            },
+            {
+                "text": "Вопрос времени",
+                "sticker": "CAACAgIAAxkBAAIYsmIviubg7sFJk0QPkXlVyfvsUH_GAAKGGAACN3FJSQmDoTJXPBHQIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO9mIt_GXMqNcaNxgN4KiHZ_0wZrKoAAJWGwACblRwSdLF_q3jQenFIwQ"
+                ]
+            },
+            {
+                "text": "Это дело эльфов",
+                "sticker": "CAACAgIAAxkBAAIYtGIviuZ7rkKPXeOEkEio_NNPAiW7AAJ3FQACtXNJScbal6BTFoFbIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO-GIt_GjmGf2kQZ_fTW_nrvQAAYt23gACVxsAAm5UcEnfzwqN6O_7oyME"
+                ]
+            },
+            {
+                "text": "Как прикажете",
+                "sticker": "CAACAgIAAxkBAAIYtmIvivjgKAtDFqUBx29A8XyUnpxjAAIkEwACk8BISQlz5OUq9VeAIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIO-mIt_GpCDQLp7_wKpCYTqvc9hAdlAAJYGwACblRwSeSt42Bc3Y7pIwQ"
+                ]
+            },
+            {
+                "text": "Мы победим",
+                "sticker": "CAACAgIAAxkBAAIYuGIvivmvRCKyVgNLSvoC_i-HMpW4AALAFAACkfJISY9ptBuIAAHCcCME",
+                "voice": [
+                    "AwACAgIAAxkBAAIO_GIt_GyxKon9EQ8Rs1XBfXUnYMZOAAJZGwACblRwSS951bHOpJO3IwQ"
+                ]
+            },
+            {
+                "text": "Без промедления",
+                "sticker": "CAACAgIAAxkBAAIYumIviwdr_rRn27cVZtnIZq5oe6paAALQFgACFfRISZ9FFsVx0NZYIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPAAFiLfxx-4e8YEIWYKpNH9xX_biJaQACWxsAAm5UcElf7z9pNI8iRCME"
+                ]
+            }
+        ]
+    },
+    {
+        "Tank": [
+            {
+                "text": "*Звуки приближения...*",
+                "sticker": "CAACAgIAAxkBAAIYzGIvi136ArltBUXD1dwRR4xqyH_7AAJaGgACCFZJSS1t2RIz6Y-rIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPEGIt_IBbQU9smIktop51EbML2YY5AAJjGwACblRwSc4ZoEF_7fipIwQ",
+                    "AwACAgIAAxkBAAIPEmIt_IMAAYi7aj8kObq-cskg1a3m5QACZBsAAm5UcEl2EXKe0G918yME",
+                    "AwACAgIAAxkBAAIPFGIt_IV59V2PYEAcJltx3kXgXGA4AAJlGwACblRwSVk16YjLy08CIwQ",
+                    "AwACAgIAAxkBAAIPFmIt_IegIKsCyGPna7bgu5VDBp5xAAJmGwACblRwSZraBQwWeJnbIwQ",
+                    "AwACAgIAAxkBAAIPGGIt_IlMF_ztCxx16fBjx3fI7zSVAAJnGwACblRwSaZF56XI60VxIwQ",
+                    "AwACAgIAAxkBAAIPGmIt_IsjzSsMlnVka2i7Bt_8YZgCAAJoGwACblRwSb9BDlAr_IiAIwQ",
+                    "AwACAgIAAxkBAAIPHGIt_I-f1LXQsYKMOf1bVJrROqXZAAJpGwACblRwSShg2r-A6cfaIwQ",
+                    "AwACAgIAAxkBAAIPHmIt_JH3m-DFAz_elNMo37jNx1PZAAJqGwACblRwSdlQKziLxoAwIwQ",
+                    "AwACAgIAAxkBAAIPIGIt_JOAB5fJJAJ-MeveST_Z6bxeAAJrGwACblRwSZknxI1Nw8LQIwQ",
+                    "AwACAgIAAxkBAAIPImIt_JYAAQRGOPQPJ_itWm2L8N2rCQACbBsAAm5UcEkbPYLa4OPkRCME",
+                    "AwACAgIAAxkBAAIPJGIt_Ji79WgyTcA57A3pFNwzOfZlAAJtGwACblRwSRtwjff7Ut2hIwQ",
+                    "AwACAgIAAxkBAAIPJmIt_Job0hcLsBJ5uCip0u6junP8AAJuGwACblRwSUXVXlPsYVKgIwQ",
+                    "AwACAgIAAxkBAAIPKGIt_Jy9HxgbX1Hv6hfupsz7bTZkAAJvGwACblRwSRsaIvwI3VMRIwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "WaterElement": [
+            {
+                "text": "*Что-то на водном...*",
+                "sticker": "CAACAgIAAxkBAAIYzmIvi2jYRfAhk9Gu1TYek6dOaLy5AAJLFgACY0xISd4HnsoG9nzvIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIPKmIt_J6pUd_TELJ35E96wRpmd3UlAAJwGwACblRwSTSyNpthg0EjIwQ",
+                    "AwACAgIAAxkBAAIPLGIt_KArmN2xJGku8yas2pAMxiFeAAJxGwACblRwSbGVVSvvLmsxIwQ",
+                    "AwACAgIAAxkBAAIPLmIt_KJvdIaXR5F5oq_WuJolRIjxAAJyGwACblRwSarK1v0WGK00IwQ",
+                    "AwACAgIAAxkBAAIPMGIt_KRo4wrSzK2XrWCoQf40irVtAAJzGwACblRwSWfjKRudobxzIwQ",
+                    "AwACAgIAAxkBAAIPMmIt_KbXm3mVqjiUhLP0rqK2zjy5AAJ0GwACblRwSZQnjBwqSHJlIwQ",
+                    "AwACAgIAAxkBAAIPNGIt_KjcYqql27MAAZhRh3bIdYpFfgACdRsAAm5UcEnwmVqfBZwCKSME",
+                    "AwACAgIAAxkBAAIPNmIt_KoCf3DRgGdB2AUDlEvueKTzAAJ2GwACblRwSfmzFw-GlXZtIwQ",
+                    "AwACAgIAAxkBAAIPOGIt_KwVtlZp-aK_kbeiJBaOnCI_AAJ3GwACblRwSW1Zi84AAYo1QCME",
+                    "AwACAgIAAxkBAAIPOmIt_K5A8fG1TtQaW_doZHjgJNcmAAJ4GwACblRwSaLG4xFqi4eBIwQ",
+                    "AwACAgIAAxkBAAIPPGIt_K87SsrJCfZjkuj1FU8LCDfTAAJ5GwACblRwSTNMfXj5ZxMiIwQ",
+                    "AwACAgIAAxkBAAIPPmIt_LF-UwZE4gvk_jvWDLMiCnOMAAJ6GwACblRwSdTQQTrnq6_QIwQ",
+                    "AwACAgIAAxkBAAIPQGIt_LMNUp7bX0em_BLbSU0dA8xEAAJ7GwACblRwSdI2w2wVffA6IwQ",
+                    "AwACAgIAAxkBAAIPQmIt_LYFyOyE_Jw31iV-iX73qSQpAAJ8GwACblRwSeb7u5O3xTlVIwQ",
+                    "AwACAgIAAxkBAAIPRGIt_Lf9SLrvzQIaLo12P5FI7eAdAAJ9GwACblRwSaEzst55ofYYIwQ",
+                    "AwACAgIAAxkBAAIPRmIt_LmMFp9HXnebvarmg8BPWGAFAAJ-GwACblRwSS9fSrL1DHBNIwQ",
+                    "AwACAgIAAxkBAAIPSGIt_LswZoQ1cIJxw2v2WI2-xm8SAAJ_GwACblRwSVh97B4oVnr0IwQ"
+                ]
+            }
+        ]
+    },
+    {
+        "Ополченец": [
+            {
+                "text": "Ты чтоль король? --- А я за тебя не голосовал!",
+                "sticker": "CAACAgIAAxkBAAIY0GIvi3jaQPZon5S-Nlcsrl3PHmzUAAJfFAACONFISVeZHXTaXdfhIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOXmIt-8KBPFjp-f6CBjBZA83xAW7zAAIJGwACblRwSeOC3O6rA3pGIwQ"
+                ]
+            },
+            {
+                "text": "Тебя бы так...",
+                "sticker": "CAACAgIAAxkBAAIY0mIvi38apjiOEx-Av7hcG2XSDMbTAAKfFgAC03ZJSaBj4BZwpPY2IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOcmIt-9pH1jIPndh2GILA9XCIYT4hAAITGwACblRwSTdAYz-A9tbqIwQ"
+                ]
+            },
+            {
+                "text": "Помогите! --- На меня давят!",
+                "sticker": "CAACAgIAAxkBAAIY5GIvi7jkv3iO_U0gedxzLvLBZCIgAAJZGQACbrJBSR9wmg04e3O9IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOdGIt-9yJsjafuHt4jjfhwZRZ_htzAAIUGwACblRwSSdhz0K86dt4IwQ"
+                ]
+            },
+            {
+                "text": "Работа не волк. В лес не убежит",
+                "sticker": "CAACAgIAAxkBAAIY5mIvi8aHndS3KVksbVsjLnisuWkvAAKnFwACXrJISZnnRVAoB9skIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOdmIt-95hox2HKNkRE3VSacaLLm9eAAIVGwACblRwSWVO88EqD5AVIwQ"
+                ]
+            },
+            {
+                "text": "Мы поймали ведьму --- Можно мы её сожжём?",
+                "sticker": "CAACAgIAAxkBAAIY6GIvi84AAWeW6SsuGCIxHDdgfuIDdAAC3xQAAsHpSUnkuhnPU3k2NSME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOeGIt--DatIqqIAtLE8UsDgrW3jFAAAIWGwACblRwSREGeuj_mMO9IwQ"
+                ]
+            },
+            {
+                "text": "Я готов",
+                "sticker": "CAACAgIAAxkBAAIY6mIvi9gL6ChJ1yj_2IrPF3OvjmwHAAL1FgACjstASdOWulQ2DNB7IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOemIt--GvidFftatdi7or6_O-Kz5JAAIXGwACblRwSZntzb6u7VrOIwQ"
+                ]
+            },
+            {
+                "text": "ААААААА",
+                "sticker": "CAACAgIAAxkBAAIY7GIvi9l7vzMZmGhW1x8f5GY3yIdmAALvGAACjeBJSeu8p7q0rBxXIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOfGIt--OEfT8sLQABv46gwwsTxlT7pwACGBsAAm5UcEkbmuOzenAdPiME"
+                ]
+            },
+            {
+                "text": "Да, господин",
+                "sticker": "CAACAgIAAxkBAAIY7mIvi-VGZOABkZYb-h5_4j6WA-MBAAJ_GgACvmhJSaNONQtr24vKIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOfmIt--WylZYqH_TaTrWa10zACBLhAAIZGwACblRwSUUZzjBOPaS8IwQ"
+                ]
+            },
+            {
+                "text": "Чего?",
+                "sticker": "CAACAgIAAxkBAAIY8GIvi-aTFXMXxPDau6fV-Z5Q0cpBAAKaGAACO_9ISTmDrtTby7kRIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOgGIt--e66Zx04hF8c74bplom3vssAAIaGwACblRwSTTlluoDvkoWIwQ"
+                ]
+            },
+            {
+                "text": "Опять работа?",
+                "sticker": "CAACAgIAAxkBAAIY8mIvi-ewyr9RlqkkfN4hHz2rjG-AAAJTGQACQaRJSa-wX7_zjf4uIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOYGIt-8SJ5uHkVN7FLLjx50KLlH8sAAIKGwACblRwSVUk-LLcUaWsIwQ"
+                ]
+            },
+            {
+                "text": "Да",
+                "sticker": "CAACAgIAAxkBAAIY1GIvi4jqxVKDM2HZkQbuht83PwajAAJaFwACTqpISfN24BxnZtJ3IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOYmIt-8Uyt0u321U4cVrErUYR7j6-AAILGwACblRwSX9uZ2JfWe7oIwQ"
+                ]
+            },
+            {
+                "text": "Угу",
+                "sticker": "CAACAgIAAxkBAAIY1mIvi4mQ3RJ8gkG1dUHBphwudBIaAAJ2GAAClAtASRcmHJDO10PqIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOZGIt-8g1evsY6FS9Dtt2lmjn3drWAAIMGwACblRwSQP2xs5CP5poIwQ"
+                ]
+            },
+            {
+                "text": "Хорошо",
+                "sticker": "CAACAgIAAxkBAAIY2GIvi4rRco6FPLdH7b7H8MXqyjyOAAL6FQACLs9ISeysiWEIwN--IwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOZmIt-8rzBtYKGee6Dvrye0n-3A5iAAINGwACblRwSYIK04p1tpSQIwQ"
+                ]
+            },
+            {
+                "text": "Ну, я пошел",
+                "sticker": "CAACAgIAAxkBAAIY2mIvi5j0mXwEpbbg9tXpu4xgZlgQAALVGwACJWhJSSfyB8AjwN3PIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOaGIt-8w2400wPyEjMVY1eNONfyAbAAIOGwACblRwSWyeLEUIL2FMIwQ"
+                ]
+            },
+            {
+                "text": "Прощайте",
+                "sticker": "CAACAgIAAxkBAAIY3GIvi5lWWoZSqqTIdfqR5XpAJL73AAITGgAC6VJISQ1sl5WI2d5tIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIOamIt-9HMnwWJKrwHimgAAbVr6N9L5QACDxsAAm5UcEl4nRQp8YPOLSME"
+                ]
+            },
+            {
+                "text": "Вам меня не жалко?",
+                "sticker": "CAACAgIAAxkBAAIY3mIvi6naQysxtNfBRQWSm_l2Rny3AAKvGAAC_H5BSdoq-HCRlplaIwQ",
+                "voice": [
+                    "AwACAgIAAxkBAAIObGIt-9MYt8Kj1Vz0SZJeIM9I8VleAAIQGwACblRwSdq7IZrgsIBkIwQ"
+                ]
+            },
+            {
+                "text": "Придется драться...",
+                "sticker": "CAACAgIAAxkBAAIY4GIvi6ojmPkbXVM2eCjZAAFuPrdhzAACNBkAAmnSSEmVjMeMrxQt6SME",
+                "voice": [
+                    "AwACAgIAAxkBAAIObmIt-9Zenn1dH4v-xUUvEm2ubX99AAIRGwACblRwSfYIFnZRysKLIwQ"
+                ]
+            },
+            {
+                "text": "Ну вот. Меня убьют...",
+                "sticker": "CAACAgIAAxkBAAIY4mIvi7e4TWvRcaAtehOveHdAEQABIQACjBUAAoXJSUnwc_9wd9zu_iME",
+                "voice": [
+                    "AwACAgIAAxkBAAIOcGIt-9gwcqxuePRbup9T2gqGP7SZAAISGwACblRwSZ56KrCGsvz5IwQ"
+                ]
+            }
+        ]
+    }
+]
