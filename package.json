@@ -7,13 +7,27 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "keywords": [
+    "Warcraft",
+    "Heroku",
+    "Sticker",
+    "Telegram",
+    "node js",
+    "bot",
+    "telegraf"
+  ],
+  "engines": {
+    "node": "16.13.2"
+  },
+  "author": "BitDittoWit",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "telegraf": "^4.7.0"
+    "telegraf": "^4.7.0",
+    "telegraf-session-local": "^2.1.0"
   },
   "devDependencies": {
+    "fs-extra": "^10.1.0",
     "nodemon": "^2.0.15"
   }
 }

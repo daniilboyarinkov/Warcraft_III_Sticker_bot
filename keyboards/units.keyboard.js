@@ -8,10 +8,10 @@ const orcKeyboard       = []
 const undeadKeyboard    = []
 
 // filling keyboards
-humanUnitsNames   .forEach(unitName => humanKeyboard   .push([Markup.button.callback(unitName, unitName)]))
-nightElfUnitsNames.forEach(unitName => nightElfKeyboard.push([Markup.button.callback(unitName, unitName)]))
-orcUnitsNames     .forEach(unitName => orcKeyboard     .push([Markup.button.callback(unitName, unitName)]))
-undeadUnitsNames  .forEach(unitName => undeadKeyboard  .push([Markup.button.callback(unitName, unitName)]))
+humanUnitsNames   .sort().forEach(unitName => humanKeyboard   .push([Markup.button.callback(unitName, unitName)]))
+nightElfUnitsNames.sort().forEach(unitName => nightElfKeyboard.push([Markup.button.callback(unitName, unitName)]))
+orcUnitsNames     .sort().forEach(unitName => orcKeyboard     .push([Markup.button.callback(unitName, unitName)]))
+undeadUnitsNames  .sort().forEach(unitName => undeadKeyboard  .push([Markup.button.callback(unitName, unitName)]))
 
 // export keyboards
 module.exports.humanKeyboard    = humanKeyboard

@@ -1,10 +1,9 @@
-const {Composer} = require('telegraf')
-const composer = new Composer()
+const { Composer } = require('telegraf')
+
 const helpText = require('../texts/help.text')
 
-composer.help((ctx) => {
-    ctx.reply(helpText).catch(function(error) {
-        if (error.response && error.response.statusCode === 403) return
-})})
+const composer = new Composer()
+
+composer.help((ctx) => ctx.reply(helpText))
 
 module.exports = composer
